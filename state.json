@@ -1,0 +1,1506 @@
+{
+  "78718_1": {
+    "id": 78718,
+    "name": "Eifel",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "76788_1": {
+    "id": 76788,
+    "name": "XlebuIIIek_TOP",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "76789_1": {
+    "id": 76789,
+    "name": "_Snejock_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "76819_1": {
+    "id": 76819,
+    "name": "Dam_v_Tablo",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "76845_1": {
+    "id": 76845,
+    "name": "DexterXI",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "96908_1": {
+    "id": 96908,
+    "name": "Ramon1999",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "94332_1": {
+    "id": 94332,
+    "name": "bogdan49494949",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "93122_1": {
+    "id": 93122,
+    "name": "Steyferptsv2",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "97612_1": {
+    "id": 97612,
+    "name": "CuNuU_KuT",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "97636_1": {
+    "id": 97636,
+    "name": "Universe77",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "96932_1": {
+    "id": 96932,
+    "name": "K_isk_A",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 1,
+    "server_name": "HiTech #1"
+  },
+  "44643_3": {
+    "id": 44643,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 3,
+    "server_name": "SkyTech #1"
+  },
+  "97429_3": {
+    "id": 97429,
+    "name": "Xallo",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 3,
+    "server_name": "SkyTech #1"
+  },
+  "70609_3": {
+    "id": 70609,
+    "name": "vmeste",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 3,
+    "server_name": "SkyTech #1"
+  },
+  "77271_3": {
+    "id": 77271,
+    "name": "Dailmaran",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 3,
+    "server_name": "SkyTech #1"
+  },
+  "94480_3": {
+    "id": 94480,
+    "name": "Kupysha17",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 3,
+    "server_name": "SkyTech #1"
+  },
+  "83558_3": {
+    "id": 83558,
+    "name": "Agression",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 3,
+    "server_name": "SkyTech #1"
+  },
+  "90257_3": {
+    "id": 90257,
+    "name": "Tweaky",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 3,
+    "server_name": "SkyTech #1"
+  },
+  "76851_40": {
+    "id": 76851,
+    "name": "Eifel",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "89669_40": {
+    "id": 89669,
+    "name": "Glut1k",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "86637_40": {
+    "id": 86637,
+    "name": "_Qusya_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "80781_40": {
+    "id": 80781,
+    "name": "I_Belik222",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "90608_40": {
+    "id": 90608,
+    "name": "Kriiz",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "76795_40": {
+    "id": 76795,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "76807_40": {
+    "id": 76807,
+    "name": "MrRoBoTTT",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "76808_40": {
+    "id": 76808,
+    "name": "Oculin",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "97892_40": {
+    "id": 97892,
+    "name": "ginn0",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "88173_40": {
+    "id": 88173,
+    "name": "Svetlana565",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "87491_40": {
+    "id": 87491,
+    "name": "Best4PlayYork",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "88046_40": {
+    "id": 88046,
+    "name": "Assasin_Gelin",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "88048_40": {
+    "id": 88048,
+    "name": "zevon",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "92953_40": {
+    "id": 92953,
+    "name": "drazdraberma",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "97627_40": {
+    "id": 97627,
+    "name": "Kirill_Kruglov",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "89085_40": {
+    "id": 89085,
+    "name": "sw1sd",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "93447_40": {
+    "id": 93447,
+    "name": "CTARUK",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "94569_40": {
+    "id": 94569,
+    "name": "Narutorendan",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "95354_40": {
+    "id": 95354,
+    "name": "Odin1722",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "94629_40": {
+    "id": 94629,
+    "name": "JostSopl",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "95403_40": {
+    "id": 95403,
+    "name": "dedavnutri",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "97545_40": {
+    "id": 97545,
+    "name": "IvanKarman",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "93107_40": {
+    "id": 93107,
+    "name": "tuuchaa",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "94403_40": {
+    "id": 94403,
+    "name": "Galleta",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "94695_40": {
+    "id": 94695,
+    "name": "ShironLd",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "97537_40": {
+    "id": 97537,
+    "name": "Metolus",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "97572_40": {
+    "id": 97572,
+    "name": "Oxen",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "85578_40": {
+    "id": 85578,
+    "name": "De_rider",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 40,
+    "server_name": "TechnoMagic #1"
+  },
+  "79623_5": {
+    "id": 79623,
+    "name": "CheeseRat",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "82195_5": {
+    "id": 82195,
+    "name": "Eifel",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "88705_5": {
+    "id": 88705,
+    "name": "TechnoLogister",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "82323_5": {
+    "id": 82323,
+    "name": "anaeus",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "93605_5": {
+    "id": 93605,
+    "name": "_Snejock_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "79828_5": {
+    "id": 79828,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "82893_5": {
+    "id": 82893,
+    "name": "Vinyl_",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "79605_5": {
+    "id": 79605,
+    "name": "Kamishini",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "92377_5": {
+    "id": 92377,
+    "name": "LordOfDragon",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 5,
+    "server_name": "MagicRPG #1"
+  },
+  "78598_6": {
+    "id": 78598,
+    "name": "Dam_v_Tablo",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "46642_6": {
+    "id": 46642,
+    "name": "Eifel",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "88885_6": {
+    "id": 88885,
+    "name": "Snorwar",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "54595_6": {
+    "id": 54595,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "78169_6": {
+    "id": 78169,
+    "name": "_Snejock_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "93604_6": {
+    "id": 93604,
+    "name": "TechnoLogister",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "93652_6": {
+    "id": 93652,
+    "name": "Ramon1999",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "88317_6": {
+    "id": 88317,
+    "name": "aviamodel",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "95433_6": {
+    "id": 95433,
+    "name": "EnJay",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "93409_6": {
+    "id": 93409,
+    "name": "owlqueen135",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 6,
+    "server_name": "Galaxy #1"
+  },
+  "76823_7": {
+    "id": 76823,
+    "name": "vmeste",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "45661_7": {
+    "id": 45661,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "63100_7": {
+    "id": 63100,
+    "name": "Dailmaran",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "97430_7": {
+    "id": 97430,
+    "name": "Xallo",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "91481_7": {
+    "id": 91481,
+    "name": "Mypp",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "76419_7": {
+    "id": 76419,
+    "name": "Gentlyfast0o1",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "75198_7": {
+    "id": 75198,
+    "name": "SLAVADIMA",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "97898_7": {
+    "id": 97898,
+    "name": "_StellVortex_",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "69206_7": {
+    "id": 69206,
+    "name": "devilgirl2007",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "94316_7": {
+    "id": 94316,
+    "name": "Aswood",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 7,
+    "server_name": "Industrial #1"
+  },
+  "63163_18": {
+    "id": 63163,
+    "name": "YaZheVika",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "63174_18": {
+    "id": 63174,
+    "name": "MaKZ71",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "85555_18": {
+    "id": 85555,
+    "name": "Vinyl_",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "88936_18": {
+    "id": 88936,
+    "name": "Vinposetin",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "63167_18": {
+    "id": 63167,
+    "name": "Rikhter",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "42725_18": {
+    "id": 42725,
+    "name": "Lirix",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "88903_18": {
+    "id": 88903,
+    "name": "iceq",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "85920_18": {
+    "id": 85920,
+    "name": "LiderV",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 18,
+    "server_name": "GregTech #1"
+  },
+  "88414_21": {
+    "id": 88414,
+    "name": "Vinyl_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "80528_21": {
+    "id": 80528,
+    "name": "twiinks_uwu",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "84718_21": {
+    "id": 84718,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "96067_21": {
+    "id": 96067,
+    "name": "SuzuaJuzo",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "84572_21": {
+    "id": 84572,
+    "name": "OG_Dimka",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "91016_21": {
+    "id": 91016,
+    "name": "__Hopper__",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "94694_21": {
+    "id": 94694,
+    "name": "stampedes",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "97546_21": {
+    "id": 97546,
+    "name": "SanZah",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "86130_21": {
+    "id": 86130,
+    "name": "4RAJ",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "97031_21": {
+    "id": 97031,
+    "name": "OG_Sashka",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "97625_21": {
+    "id": 97625,
+    "name": "WolaNnn",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "97524_21": {
+    "id": 97524,
+    "name": "VitaVitaMin",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "97602_21": {
+    "id": 97602,
+    "name": "scoutdrago3",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "97244_21": {
+    "id": 97244,
+    "name": "maks_ta6it",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "97275_21": {
+    "id": 97275,
+    "name": "Knigo",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 21,
+    "server_name": "OneBlock #1"
+  },
+  "77075_36": {
+    "id": 77075,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97305_36": {
+    "id": 97305,
+    "name": "Bet",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "96570_36": {
+    "id": 96570,
+    "name": "_fufa_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "83967_36": {
+    "id": 83967,
+    "name": "jojik23",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97164_36": {
+    "id": 97164,
+    "name": "Keksorino",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "96697_36": {
+    "id": 96697,
+    "name": "Vantyzavr",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97306_36": {
+    "id": 97306,
+    "name": "Eifel",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "96174_36": {
+    "id": 96174,
+    "name": "Xaku",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97654_36": {
+    "id": 97654,
+    "name": "RishaBlin",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97820_36": {
+    "id": 97820,
+    "name": "darsi3luv",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97821_36": {
+    "id": 97821,
+    "name": "Elizabethxxxxx",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97569_36": {
+    "id": 97569,
+    "name": "Kirill_Kruglov",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97375_36": {
+    "id": 97375,
+    "name": "Marquis666",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97653_36": {
+    "id": 97653,
+    "name": "plodojorka",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "76448_36": {
+    "id": 76448,
+    "name": "Sunam0r",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 36,
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "79909_41": {
+    "id": 79909,
+    "name": "Dragoner",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "79912_41": {
+    "id": 79912,
+    "name": "IIIPeGasIII",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "94532_41": {
+    "id": 94532,
+    "name": "_Snejock_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "97418_41": {
+    "id": 97418,
+    "name": "BrowniX567",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "94491_41": {
+    "id": 94491,
+    "name": "Magnat373",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "97328_41": {
+    "id": 97328,
+    "name": "Banan4ikPONI",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "97330_41": {
+    "id": 97330,
+    "name": "dknkt",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "93022_41": {
+    "id": 93022,
+    "name": "Lunaria",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "89490_41": {
+    "id": 89490,
+    "name": "_Sirin_",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "97510_41": {
+    "id": 97510,
+    "name": "lol_on_killer",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "95578_41": {
+    "id": 95578,
+    "name": "soraokobamu",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "95187_41": {
+    "id": 95187,
+    "name": "kobra44",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "94492_41": {
+    "id": 94492,
+    "name": "pasha2024",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "97574_41": {
+    "id": 97574,
+    "name": "MDefe",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "96894_41": {
+    "id": 96894,
+    "name": "lpen",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "97628_41": {
+    "id": 97628,
+    "name": "Capsloi",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "97714_41": {
+    "id": 97714,
+    "name": "d0m1n0shka",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 41,
+    "server_name": "IceAndFire #1"
+  },
+  "90129_42": {
+    "id": 90129,
+    "name": "jojik23",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 42,
+    "server_name": "OceanBlock #1"
+  },
+  "90158_42": {
+    "id": 90158,
+    "name": "Pashketik",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 42,
+    "server_name": "OceanBlock #1"
+  },
+  "94263_42": {
+    "id": 94263,
+    "name": "Kozinakovich",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 42,
+    "server_name": "OceanBlock #1"
+  },
+  "92925_42": {
+    "id": 92925,
+    "name": "GALKINLOL",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 42,
+    "server_name": "OceanBlock #1"
+  },
+  "88732_43": {
+    "id": 88732,
+    "name": "jojik23",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "88733_43": {
+    "id": 88733,
+    "name": "Bet",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "91377_43": {
+    "id": 91377,
+    "name": "GALKINLOL",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "97590_43": {
+    "id": 97590,
+    "name": "Archick",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "88967_43": {
+    "id": 88967,
+    "name": "AllEyesOnMe",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "94621_43": {
+    "id": 94621,
+    "name": "DanushaCeksu",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "94688_43": {
+    "id": 94688,
+    "name": "TimCixo",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "92656_43": {
+    "id": 92656,
+    "name": "Urkosta",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "94536_43": {
+    "id": 94536,
+    "name": "6_BlackHoll_9",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "96255_43": {
+    "id": 96255,
+    "name": "Aom1neDaiki",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "97619_43": {
+    "id": 97619,
+    "name": "Minislerpik",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 43,
+    "server_name": "Cobblemon #1"
+  },
+  "95099_44": {
+    "id": 95099,
+    "name": "jojik23",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 44,
+    "server_name": "Create #1"
+  },
+  "93645_44": {
+    "id": 93645,
+    "name": "Bet",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 44,
+    "server_name": "Create #1"
+  },
+  "95712_44": {
+    "id": 95712,
+    "name": "Kazuhay",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 44,
+    "server_name": "Create #1"
+  },
+  "93757_44": {
+    "id": 93757,
+    "name": "miwinka",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 44,
+    "server_name": "Create #1"
+  },
+  "96653_44": {
+    "id": 96653,
+    "name": "Polina9591",
+    "group": 99,
+    "group_name": "Строитель",
+    "server_id": 44,
+    "server_name": "Create #1"
+  },
+  "96340_45": {
+    "id": 96340,
+    "name": "Bet",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "96341_45": {
+    "id": 96341,
+    "name": "jojik23",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "96516_45": {
+    "id": 96516,
+    "name": "RaSaEl_",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "96342_45": {
+    "id": 96342,
+    "name": "Yarognev",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "96515_45": {
+    "id": 96515,
+    "name": "masster416",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "97699_45": {
+    "id": 97699,
+    "name": "Rockwel",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "96514_45": {
+    "id": 96514,
+    "name": "vivivat",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "96517_45": {
+    "id": 96517,
+    "name": "Nekruz2121",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "97149_45": {
+    "id": 97149,
+    "name": "Fotonyash",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": 45,
+    "server_name": "Pixelmon 1.21.1 #1"
+  },
+  "63238_100": {
+    "id": 63238,
+    "name": "_Snejock_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "54811_100": {
+    "id": 54811,
+    "name": "XlebuIIIek_TOP",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "54878_100": {
+    "id": 54878,
+    "name": "Eifel",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "57995_100": {
+    "id": 57995,
+    "name": "Desires",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "76143_100": {
+    "id": 76143,
+    "name": "DexterXI",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "96909_100": {
+    "id": 96909,
+    "name": "Ramon1999",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "95825_100": {
+    "id": 95825,
+    "name": "Raivo",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "96968_100": {
+    "id": 96968,
+    "name": "Dvjvjdsbsb",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 100,
+    "server_name": "HiTech-Mobile #1"
+  },
+  "76852_101": {
+    "id": 76852,
+    "name": "Eifel",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "80196_101": {
+    "id": 80196,
+    "name": "Kriiz",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "89670_101": {
+    "id": 89670,
+    "name": "Glut1k",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "86638_101": {
+    "id": 86638,
+    "name": "_Qusya_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "88194_101": {
+    "id": 88194,
+    "name": "I_Belik222",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "94498_101": {
+    "id": 94498,
+    "name": "zevon",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "73008_101": {
+    "id": 73008,
+    "name": "ginn0",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "97893_101": {
+    "id": 97893,
+    "name": "Svetlana565",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "97894_101": {
+    "id": 97894,
+    "name": "Best4PlayYork",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "83055_101": {
+    "id": 83055,
+    "name": "MrRoBoTTT",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "88047_101": {
+    "id": 88047,
+    "name": "Assasin_Gelin",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "81649_101": {
+    "id": 81649,
+    "name": "Oculin",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "89161_101": {
+    "id": 89161,
+    "name": "Vadimvolk19",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": 101,
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "69556_105": {
+    "id": 69556,
+    "name": "Vinyl_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "89809_105": {
+    "id": 89809,
+    "name": "twiinks_uwu",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "93499_105": {
+    "id": 93499,
+    "name": "OG_Dimka",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "96066_105": {
+    "id": 96066,
+    "name": "SuzuaJuzo",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "94814_105": {
+    "id": 94814,
+    "name": "stampedes",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "97961_105": {
+    "id": 97961,
+    "name": "__Hopper__",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "96374_105": {
+    "id": 96374,
+    "name": "coteso",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "97336_105": {
+    "id": 97336,
+    "name": "ToedTripod1582",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": 105,
+    "server_name": "OneBlock-Mobile #1"
+  }
+}
