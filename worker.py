@@ -1,82 +1,28 @@
 import os
-import time
 import json
 import requests
-import threading
 from datetime import datetime
-from http.server import HTTPServer, BaseHTTPRequestHandler
 
-# --- КОНФИГУРАЦИЯ ---
 API_URL = "https://cubixworld.net/api/team"
-CHECK_INTERVAL = 300  # Проверка каждые 5 минут
-
 STATE_FILE = "state.json"
 LOG_FILE = "changes_log.json"
 
-# Переменные окружения из Render
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_REPO = os.environ.get("GITHUB_REPO")  # Формат: "username/repo-name"
-GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "main")
+def read_json_file(filepath, default):
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"Ошибка чтения {filepath}: {e}")
+    return default
 
-# --- ВЕБ-СЕРВЕР ДЛЯ PROBE RENDER ---
-class HealthCheckHandler(BaseHTTPRequestHandler):
-    def do_GET(self):
-        self.send_response(200)
-        self.send_header("Content-type", "text/plain; charset=utf-8")
-        self.end_headers()
-        self.wfile.write(b"Cubix Worker is active")
-
-    def log_message(self, format, *args):
-        return
-
-def start_health_server():
-    port = int(os.environ.get("PORT", 10000))
-    server = HTTPServer(("0.0.0.0", port), HealthCheckHandler)
-    server.serve_forever()
-
-# --- ВЗАИМОДЕЙСТВИЕ С GITHUB API ---
-def get_github_file(filepath):
-    """Получает файл из GitHub репозитория"""
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{filepath}?ref={GITHUB_BRANCH}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+def write_json_file(filepath, data):
     try:
-        res = requests.get(url, headers=headers, timeout=10)
-        if res.status_code == 200:
-            content = res.json()
-            import base64
-            decoded = base64.b64decode(content["content"]).decode("utf-8")
-            return json.loads(decoded), content["sha"]
-        return {}, None
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
     except Exception as e:
-        print(f"Ошибка чтения {filepath} с GitHub: {e}")
-        return {}, None
+        print(f"Ошибка записи {filepath}: {e}")
 
-def update_github_file(filepath, data, sha, commit_message):
-    """Обновляет или создает файл в GitHub репозитории"""
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{filepath}"
-    headers = {"Authorization": f"token {GITHUB_TOKEN}"}
-    import base64
-    content_bytes = json.dumps(data, ensure_ascii=False, indent=2).encode("utf-8")
-    base64_content = base64.b64encode(content_bytes).decode("utf-8")
-    
-    payload = {
-        "message": commit_message,
-        "content": base64_content,
-        "branch": GITHUB_BRANCH
-    }
-    if sha:
-        payload["sha"] = sha
-        
-    try:
-        res = requests.put(url, json=payload, headers=headers, timeout=10)
-        if res.status_code in [200, 201]:
-            print(f"Файл {filepath} успешно обновлен на GitHub")
-        else:
-            print(f"Ошибка сохранения {filepath} на GitHub: {res.status_code} {res.text}")
-    except Exception as e:
-        print(f"Ошибка отправки {filepath} на GitHub: {e}")
-
-# --- СБОР ДАННЫХ И СРАВНЕНИЕ ---
 def fetch_current_team():
     try:
         res = requests.get(API_URL, timeout=10)
@@ -94,7 +40,7 @@ def fetch_current_team():
                 flat_team[unique_key] = {
                     "id": member["id"],
                     "name": member["name"],
-                    "group": member["group"],
+                    "group": int(member["group"]),
                     "group_name": member["group_name"].strip(),
                     "server_id": member["server"],
                     "server_name": server_name
@@ -141,6 +87,8 @@ def compare_states(old_state, new_state):
         new_m = new_state[k]
 
         if old_m["group"] != new_m["group"]:
+            # В структуре Cubix: 106 (Ст. админ) > 99 (Строитель). 
+            # Выше число — выше должность.
             is_promoted = new_m["group"] > old_m["group"]
             action = "PROMOTED" if is_promoted else "DEMOTED"
             action_text = "Повышен" if is_promoted else "Понижен"
@@ -156,31 +104,31 @@ def compare_states(old_state, new_state):
 
     return events
 
-# --- ОСНОВНОЙ ЦИКЛ ---
-def worker_loop():
-    print("Воркер запущен...")
-    while True:
-        current_state = fetch_current_team()
-        if current_state is not None:
-            old_state, state_sha = get_github_file(STATE_FILE)
-            
-            if old_state:
-                changes = compare_states(old_state, current_state)
-                if changes:
-                    logs, log_sha = get_github_file(LOG_FILE)
-                    if not isinstance(logs, list):
-                        logs = []
-                    logs.extend(changes)
-                    
-                    # Фиксируем изменения в репозитории
-                    update_github_file(LOG_FILE, logs, log_sha, f"Update changes log: +{len(changes)} events")
-                    print(f"[{datetime.now()}] Новых изменений: {len(changes)}")
-            
-            # Обновляем снимок состояния
-            update_github_file(STATE_FILE, current_state, state_sha, "Update team state")
-        
-        time.sleep(CHECK_INTERVAL)
+def main():
+    print("Запуск проверки...")
+    current_state = fetch_current_team()
+    
+    if current_state is None:
+        print("Не удалось получить актуальные данные от API. Пропуск.")
+        return
+
+    old_state = read_json_file(STATE_FILE, {})
+    
+    if old_state:
+        changes = compare_states(old_state, current_state)
+        if changes:
+            logs = read_json_file(LOG_FILE, [])
+            if not isinstance(logs, list):
+                logs = []
+            logs.extend(changes)
+            write_json_file(LOG_FILE, logs)
+            print(f"Зафиксировано новых изменений: {len(changes)}")
+        else:
+            print("Изменений в составе не обнаружено.")
+    else:
+        print("Первый запуск. Создание первичного снимка состояния.")
+
+    write_json_file(STATE_FILE, current_state)
 
 if __name__ == "__main__":
-    threading.Thread(target=start_health_server, daemon=True).start()
-    worker_loop()
+    main()
