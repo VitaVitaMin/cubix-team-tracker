@@ -1,45 +1,66 @@
 [
   {
-    "time": "2026-08-22 22:05:00",
-    "type": "ADDED",
-    "player": "PlayerOne",
-    "server": "TechnoMagic #1",
-    "group": "Хелпер",
-    "details": "Добавлен на TechnoMagic #1 (Хелпер)"
-  },
-  {
-    "time": "2026-08-22 22:10:00",
-    "type": "PROMOTED",
-    "player": "Admin_123",
-    "server": "HiTech #2",
-    "old_group": "Хелпер",
-    "new_group": "Модератор",
-    "details": "Повышен на HiTech #2: Хелпер -> Модератор"
-  },
-  {
-    "time": "2026-08-22 22:15:00",
-    "type": "DEMOTED",
-    "player": "OldMember",
-    "server": "Magic #1",
-    "old_group": "Старший Модератор",
-    "new_group": "Модератор",
-    "details": "Понижен на Magic #1: Старший Модератор -> Модератор"
-  },
-  {
-    "time": "2026-08-22 22:15:00",
-    "type": "DEMOTED",
+    "timestamp": "2026-08-23 01:10:15",
     "player": "VitaVitaMin",
-    "server": "Magic #1",
-    "old_group": "Старший Модератор",
-    "new_group": "Модератор",
-    "details": "Понижен на Magic #1: Старший Модератор -> Модератор"
+    "server": "OneBlock #1",
+    "details": "Младший модер → Модератор",
+    "badge_type": "promoted",
+    "badge_text": "ПОВЫШЕН"
   },
   {
-    "time": "2026-08-22 22:20:00",
-    "type": "REMOVED",
-    "player": "LeftPlayer",
-    "server": "Pixelmon #1",
-    "group": "Хелпер",
-    "details": "Удален с Pixelmon #1 (Был: Хелпер)"
+    "timestamp": "2026-08-23 01:10:15",
+    "player": "OG_Sashka",
+    "server": "OneBlock #1",
+    "details": "Старший модератор → Младший админ",
+    "badge_type": "promoted",
+    "badge_text": "ПОВЫШЕН"
+  },
+  {
+    "timestamp": "2026-08-23 00:45:00",
+    "player": "Vinyl_",
+    "server": "GregTech #1",
+    "details": "Администратор → Старший модератор",
+    "badge_type": "demoted",
+    "badge_text": "ПОНИЖЕН"
+  },
+  {
+    "timestamp": "2026-08-23 00:30:10",
+    "player": "CuNuU_KuT",
+    "server": "HiTech #1",
+    "details": "Хелпер → Младший модер",
+    "badge_type": "promoted",
+    "badge_text": "ПОВЫШЕН"
+  },
+  {
+    "timestamp": "2026-08-22 23:55:00",
+    "player": "ShadowCrafter",
+    "server": "TechnoMagic #1",
+    "details": "Принят на должность (Хелпер)",
+    "badge_type": "added",
+    "badge_text": "ПРИНЯТ"
+  },
+  {
+    "timestamp": "2026-08-22 23:15:20",
+    "player": "Metolus",
+    "server": "TechnoMagic #1",
+    "details": "Снят с должности (Был: Хелпер)",
+    "badge_type": "removed",
+    "badge_text": "СНЯТ"
+  },
+  {
+    "timestamp": "2026-08-22 22:50:00",
+    "player": "K_isk_A",
+    "server": "HiTech #1",
+    "details": "Снят с должности (Был: Строитель)",
+    "badge_type": "removed",
+    "badge_text": "СНЯТ"
+  },
+  {
+    "timestamp": "2026-08-22 22:10:05",
+    "player": "Aom1neDaiki",
+    "server": "Cobblemon #1",
+    "details": "Модератор → Старший модератор",
+    "badge_type": "promoted",
+    "badge_text": "ПОВЫШЕН"
   }
 ]
