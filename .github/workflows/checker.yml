@@ -1,0 +1,38 @@
+name: Cubix Team Monitor
+
+on:
+  schedule:
+    # Запуск каждые 30 минут
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-team:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Чтение репозитория
+        uses: actions/checkout@v4
+
+      - name: Настройка Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Установка зависимостей
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Выполнение скрипта
+        run: python main.py
+
+      - name: Сохранение изменений в репозиторий
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json changes_log.json
+          git diff-index --quiet HEAD || (git commit -m "Auto-update team state [skip ci]" && git push)
