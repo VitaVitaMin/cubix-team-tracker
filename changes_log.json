@@ -1,1 +1,36 @@
-
+[
+  {
+    "time": "2026-08-22 22:05:00",
+    "type": "ADDED",
+    "player": "PlayerOne",
+    "server": "TechnoMagic #1",
+    "group": "Хелпер",
+    "details": "Добавлен на TechnoMagic #1 (Хелпер)"
+  },
+  {
+    "time": "2026-08-22 22:10:00",
+    "type": "PROMOTED",
+    "player": "Admin_123",
+    "server": "HiTech #2",
+    "old_group": "Хелпер",
+    "new_group": "Модератор",
+    "details": "Повышен на HiTech #2: Хелпер -> Модератор"
+  },
+  {
+    "time": "2026-08-22 22:15:00",
+    "type": "DEMOTED",
+    "player": "OldMember",
+    "server": "Magic #1",
+    "old_group": "Старший Модератор",
+    "new_group": "Модератор",
+    "details": "Понижен на Magic #1: Старший Модератор -> Модератор"
+  },
+  {
+    "time": "2026-08-22 22:20:00",
+    "type": "REMOVED",
+    "player": "LeftPlayer",
+    "server": "Pixelmon #1",
+    "group": "Хелпер",
+    "details": "Удален с Pixelmon #1 (Был: Хелпер)"
+  }
+]
