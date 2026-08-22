@@ -39,7 +39,7 @@ def fetch_current_team():
                 unique_key = f"{member['id']}_{member['server']}"
                 flat_team[unique_key] = {
                     "id": member["id"],
-                    "name": member["name"],
+                    "name": member["name"].strip(),
                     "group": int(member["group"]),
                     "group_name": member["group_name"].strip(),
                     "server_id": member["server"],
@@ -61,24 +61,24 @@ def compare_states(old_state, new_state):
     for k in (new_keys - old_keys):
         m = new_state[k]
         events.append({
-            "time": timestamp,
-            "type": "ADDED",
+            "timestamp": timestamp,
             "player": m["name"],
             "server": m["server_name"],
-            "group": m["group_name"],
-            "details": f"Добавлен на {m['server_name']} ({m['group_name']})"
+            "details": f"Принят на должность ({m['group_name']})",
+            "badge_type": "added",
+            "badge_text": "ПРИНЯТ"
         })
 
     # 2. Уволены из состава
     for k in (old_keys - new_keys):
         m = old_state[k]
         events.append({
-            "time": timestamp,
-            "type": "REMOVED",
+            "timestamp": timestamp,
             "player": m["name"],
             "server": m["server_name"],
-            "group": m["group_name"],
-            "details": f"Удален с {m['server_name']} (Был: {m['group_name']})"
+            "details": f"Снят с должности (Был: {m['group_name']})",
+            "badge_type": "removed",
+            "badge_text": "СНЯТ"
         })
 
     # 3. Повышения и понижения
@@ -87,19 +87,14 @@ def compare_states(old_state, new_state):
         new_m = new_state[k]
 
         if old_m["group"] != new_m["group"]:
-            # В структуре Cubix: 106 (Ст. админ) > 99 (Строитель). 
-            # Выше число — выше должность.
             is_promoted = new_m["group"] > old_m["group"]
-            action = "PROMOTED" if is_promoted else "DEMOTED"
-            action_text = "Повышен" if is_promoted else "Понижен"
             events.append({
-                "time": timestamp,
-                "type": action,
+                "timestamp": timestamp,
                 "player": new_m["name"],
                 "server": new_m["server_name"],
-                "old_group": old_m["group_name"],
-                "new_group": new_m["group_name"],
-                "details": f"{action_text} на {new_m['server_name']}: {old_m['group_name']} -> {new_m['group_name']}"
+                "details": f"{old_m['group_name']} → {new_m['group_name']}",
+                "badge_type": "promoted" if is_promoted else "demoted",
+                "badge_text": "ПОВЫШЕН" if is_promoted else "ПОНИЖЕН"
             })
 
     return events
@@ -120,7 +115,9 @@ def main():
             logs = read_json_file(LOG_FILE, [])
             if not isinstance(logs, list):
                 logs = []
-            logs.extend(changes)
+            
+            # Добавляем новые логи в начало списка для правильного отображения сверху вниз
+            logs = changes + logs
             write_json_file(LOG_FILE, logs)
             print(f"Зафиксировано новых изменений: {len(changes)}")
         else:
