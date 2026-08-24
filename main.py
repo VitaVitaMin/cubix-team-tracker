@@ -26,6 +26,7 @@ def write_json_file(filepath, data):
 def fetch_current_team():
     try:
         res = requests.get(API_URL, timeout=10)
+        res.raise_for_status()
         data = res.json()
         if data.get("type") != "success":
             return None
@@ -38,11 +39,11 @@ def fetch_current_team():
             for _, member in members.items():
                 unique_key = f"{member['id']}_{member['server']}"
                 flat_team[unique_key] = {
-                    "id": member["id"],
+                    "id": str(member["id"]),
                     "name": member["name"].strip(),
                     "group": int(member["group"]),
                     "group_name": member["group_name"].strip(),
-                    "server_id": member["server"],
+                    "server_id": str(member["server"]),
                     "server_name": server_name
                 }
         return flat_team
@@ -57,8 +58,45 @@ def compare_states(old_state, new_state):
     old_keys = set(old_state.keys())
     new_keys = set(new_state.keys())
 
-    # 1. Приняты в состав
-    for k in (new_keys - old_keys):
+    removed_keys = old_keys - new_keys
+    added_keys = new_keys - old_keys
+    same_keys = old_keys & new_keys
+
+    # Группируем выбывших и прибывших по id игрока для определения переводов
+    removed_by_id = {old_state[k]["id"]: k for k in removed_keys}
+    added_by_id = {new_state[k]["id"]: k for k in added_keys}
+
+    transferred_ids = set(removed_by_id.keys()) & set(added_by_id.keys())
+
+    # 1. Переводы между серверами
+    for p_id in transferred_ids:
+        old_k = removed_by_id[p_id]
+        new_k = added_by_id[p_id]
+        
+        old_m = old_state[old_k]
+        new_m = new_state[new_k]
+
+        details = f"Переведен: {old_m['server_name']} → {new_m['server_name']}"
+        if old_m["group"] != new_m["group"]:
+            details += f" ({old_m['group_name']} → {new_m['group_name']})"
+        else:
+            details += f" ({new_m['group_name']})"
+
+        events.append({
+            "timestamp": timestamp,
+            "player": new_m["name"],
+            "server": new_m["server_name"],
+            "details": details,
+            "badge_type": "transfer",
+            "badge_text": "ПЕРЕВОД"
+        })
+
+        # Исключаем из обычной обработки удалений и добавлений
+        removed_keys.remove(old_k)
+        added_keys.remove(new_k)
+
+    # 2. Приняты в состав (чистое добавление)
+    for k in added_keys:
         m = new_state[k]
         events.append({
             "timestamp": timestamp,
@@ -69,8 +107,8 @@ def compare_states(old_state, new_state):
             "badge_text": "ПРИНЯТ"
         })
 
-    # 2. Уволены из состава
-    for k in (old_keys - new_keys):
+    # 3. Уволены из состава (чистое удаление)
+    for k in removed_keys:
         m = old_state[k]
         events.append({
             "timestamp": timestamp,
@@ -81,8 +119,8 @@ def compare_states(old_state, new_state):
             "badge_text": "СНЯТ"
         })
 
-    # 3. Повышения и понижения
-    for k in (old_keys & new_keys):
+    # 4. Повышения и понижения в рамках одного сервера
+    for k in same_keys:
         old_m = old_state[k]
         new_m = new_state[k]
 
@@ -116,7 +154,6 @@ def main():
             if not isinstance(logs, list):
                 logs = []
             
-            # Добавляем новые логи в начало списка для правильного отображения сверху вниз
             logs = changes + logs
             write_json_file(LOG_FILE, logs)
             print(f"Зафиксировано новых изменений: {len(changes)}")
