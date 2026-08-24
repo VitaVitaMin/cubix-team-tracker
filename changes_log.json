@@ -1,34 +1,38 @@
 [
   {
-    "timestamp": "2026-08-24 18:55:08",
-    "player": "Krak0daeL",
-    "server": "OceanBlock #1",
-    "details": "Принят на должность (Хелпер)",
-    "badge_type": "added",
-    "badge_text": "ПРИНЯТ"
-  },
-  {
-    "timestamp": "2026-08-24 18:55:08",
-    "player": "leonhl",
-    "server": "OceanBlock #1",
-    "details": "Принят на должность (Хелпер)",
-    "badge_type": "added",
-    "badge_text": "ПРИНЯТ"
-  },
-  {
-    "timestamp": "2026-08-23 21:28:36",
+    "timestamp": "2026-08-24 17:45:00",
     "player": "amirka_xxl",
-    "server": "Pixelmon 1.16.5 #1",
-    "details": "Принят на должность (Хелпер)",
-    "badge_type": "added",
-    "badge_text": "ПРИНЯТ"
+    "badge_type": "transfer",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": "Pixelmon 1.16.5 #2",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Хелпер"
   },
   {
-    "timestamp": "2026-08-23 21:28:36",
+    "timestamp": "2026-08-24 17:45:00",
     "player": "hennesay",
-    "server": "Pixelmon 1.16.5 #1",
-    "details": "Принят на должность (Хелпер)",
     "badge_type": "added",
-    "badge_text": "ПРИНЯТ"
+    "old_server": null,
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-08-24 17:45:00",
+    "player": "OldPlayer",
+    "badge_type": "removed",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": null,
+    "old_group_name": "Хелпер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-08-24 17:45:00",
+    "player": "GoodHelper",
+    "badge_type": "promoted",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Модератор"
   }
 ]
