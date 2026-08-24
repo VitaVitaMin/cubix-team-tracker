@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-24 22:34:52",
+    "player": "Leirus",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-08-24 22:34:52",
+    "player": "Tenma1w",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-08-24 17:45:00",
     "player": "amirka_xxl",
     "badge_type": "transfer",
