@@ -62,7 +62,6 @@ def compare_states(old_state, new_state):
     added_keys = new_keys - old_keys
     same_keys = old_keys & new_keys
 
-    # Группируем выбывших и прибывших по id игрока для определения переводов
     removed_by_id = {old_state[k]["id"]: k for k in removed_keys}
     added_by_id = {new_state[k]["id"]: k for k in added_keys}
 
@@ -76,50 +75,46 @@ def compare_states(old_state, new_state):
         old_m = old_state[old_k]
         new_m = new_state[new_k]
 
-        details = f"Переведен: {old_m['server_name']} → {new_m['server_name']}"
-        if old_m["group"] != new_m["group"]:
-            details += f" ({old_m['group_name']} → {new_m['group_name']})"
-        else:
-            details += f" ({new_m['group_name']})"
-
         events.append({
             "timestamp": timestamp,
             "player": new_m["name"],
-            "server": new_m["server_name"],
-            "details": details,
             "badge_type": "transfer",
-            "badge_text": "ПЕРЕВОД"
+            "old_server": old_m["server_name"],
+            "new_server": new_m["server_name"],
+            "old_group_name": old_m["group_name"],
+            "new_group_name": new_m["group_name"]
         })
 
-        # Исключаем из обычной обработки удалений и добавлений
         removed_keys.remove(old_k)
         added_keys.remove(new_k)
 
-    # 2. Приняты в состав (чистое добавление)
+    # 2. Приняты в состав
     for k in added_keys:
         m = new_state[k]
         events.append({
             "timestamp": timestamp,
             "player": m["name"],
-            "server": m["server_name"],
-            "details": f"Принят на должность ({m['group_name']})",
             "badge_type": "added",
-            "badge_text": "ПРИНЯТ"
+            "old_server": None,
+            "new_server": m["server_name"],
+            "old_group_name": None,
+            "new_group_name": m["group_name"]
         })
 
-    # 3. Уволены из состава (чистое удаление)
+    # 3. Уволены из состава
     for k in removed_keys:
         m = old_state[k]
         events.append({
             "timestamp": timestamp,
             "player": m["name"],
-            "server": m["server_name"],
-            "details": f"Снят с должности (Был: {m['group_name']})",
             "badge_type": "removed",
-            "badge_text": "СНЯТ"
+            "old_server": m["server_name"],
+            "new_server": None,
+            "old_group_name": m["group_name"],
+            "new_group_name": None
         })
 
-    # 4. Повышения и понижения в рамках одного сервера
+    # 4. Повышения / Понижения
     for k in same_keys:
         old_m = old_state[k]
         new_m = new_state[k]
@@ -129,10 +124,11 @@ def compare_states(old_state, new_state):
             events.append({
                 "timestamp": timestamp,
                 "player": new_m["name"],
-                "server": new_m["server_name"],
-                "details": f"{old_m['group_name']} → {new_m['group_name']}",
                 "badge_type": "promoted" if is_promoted else "demoted",
-                "badge_text": "ПОВЫШЕН" if is_promoted else "ПОНИЖЕН"
+                "old_server": old_m["server_name"],
+                "new_server": new_m["server_name"],
+                "old_group_name": old_m["group_name"],
+                "new_group_name": new_m["group_name"]
             })
 
     return events
