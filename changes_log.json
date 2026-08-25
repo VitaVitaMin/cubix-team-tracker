@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-25 10:02:54",
+    "player": "IIIPeGasIII",
+    "badge_type": "demoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Старший администратор",
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-08-25 10:02:54",
+    "player": "_Snejock_",
+    "badge_type": "demoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Старший администратор",
+    "new_group_name": "Администратор"
+  },
+  {
     "timestamp": "2026-08-24 22:34:52",
     "player": "Leirus",
     "badge_type": "added",
