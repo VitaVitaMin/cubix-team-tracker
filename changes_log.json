@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-08-25 20:37:46",
+    "player": "AKEkPPFB",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OceanBlock #1",
+    "old_group_name": null,
+    "new_group_name": "Строитель"
+  },
+  {
     "timestamp": "2026-08-25 10:02:54",
     "player": "IIIPeGasIII",
     "badge_type": "demoted",
