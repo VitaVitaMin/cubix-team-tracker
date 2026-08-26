@@ -495,11 +495,19 @@
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
+  "93409_6": {
+    "id": "93409",
+    "name": "owlqueen135",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "6",
+    "server_name": "Galaxy #1"
+  },
   "88317_6": {
     "id": "88317",
     "name": "aviamodel",
-    "group": 104,
-    "group_name": "Младший админ",
+    "group": 105,
+    "group_name": "Администратор",
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
@@ -508,14 +516,6 @@
     "name": "EnJay",
     "group": 100,
     "group_name": "Хелпер",
-    "server_id": "6",
-    "server_name": "Galaxy #1"
-  },
-  "93409_6": {
-    "id": "93409",
-    "name": "owlqueen135",
-    "group": 99,
-    "group_name": "Строитель",
     "server_id": "6",
     "server_name": "Galaxy #1"
   },

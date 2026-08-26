@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-26 20:59:48",
+    "player": "owlqueen135",
+    "badge_type": "promoted",
+    "old_server": "Galaxy #1",
+    "new_server": "Galaxy #1",
+    "old_group_name": "Строитель",
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-08-26 20:59:48",
+    "player": "aviamodel",
+    "badge_type": "promoted",
+    "old_server": "Galaxy #1",
+    "new_server": "Galaxy #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
     "timestamp": "2026-08-26 16:02:19",
     "player": "Best4PlayYork",
     "badge_type": "added",
