@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-08-27 11:07:02",
+    "player": "_Sirin_",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Create #1",
+    "old_group_name": null,
+    "new_group_name": "Строитель"
+  },
+  {
     "timestamp": "2026-08-26 20:59:48",
     "player": "owlqueen135",
     "badge_type": "promoted",
