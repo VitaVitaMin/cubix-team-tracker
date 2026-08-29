@@ -1103,17 +1103,17 @@
     "server_id": "42",
     "server_name": "OceanBlock #1"
   },
-  "90158_42": {
-    "id": "90158",
-    "name": "Pashketik",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "42",
-    "server_name": "OceanBlock #1"
-  },
   "94263_42": {
     "id": "94263",
     "name": "Kozinakovich",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": "42",
+    "server_name": "OceanBlock #1"
+  },
+  "90158_42": {
+    "id": "90158",
+    "name": "Pashketik",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "42",
