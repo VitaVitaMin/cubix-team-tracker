@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-08-29 14:39:33",
+    "player": "shadooooew",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-08-29 14:39:33",
+    "player": "Capsloi",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-08-27 21:07:41",
     "player": "Rim_Chin",
     "badge_type": "added",
