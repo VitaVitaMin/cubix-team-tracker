@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-08-30 18:45:04",
+    "player": "Minislerpik",
+    "badge_type": "removed",
+    "old_server": "Cobblemon #1",
+    "new_server": null,
+    "old_group_name": "Младший модер",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-08-29 23:33:46",
     "player": "Kozinakovich",
     "badge_type": "promoted",
