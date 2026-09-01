@@ -311,6 +311,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "97537_40": {
+    "id": "97537",
+    "name": "Metolus",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "97545_40": {
     "id": "97545",
     "name": "IvanKarman",
@@ -340,14 +348,6 @@
     "name": "ShironLd",
     "group": 101,
     "group_name": "Младший модер",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "97537_40": {
-    "id": "97537",
-    "name": "Metolus",
-    "group": 100,
-    "group_name": "Хелпер",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
