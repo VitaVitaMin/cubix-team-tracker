@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": "2026-09-01 09:55:07",
+    "player": "scoutdrago3",
+    "badge_type": "promoted",
+    "old_server": "OneBlock #1",
+    "new_server": "OneBlock #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-09-01 09:55:07",
+    "player": "soraokobamu",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-09-01 09:55:07",
+    "player": "kobra44",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-09-01 09:55:07",
+    "player": "lpen",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Младший модер",
+    "new_group_name": "Модератор"
+  },
+  {
     "timestamp": "2026-08-30 18:45:04",
     "player": "Minislerpik",
     "badge_type": "removed",

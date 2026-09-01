@@ -751,6 +751,14 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
+  "97602_21": {
+    "id": "97602",
+    "name": "scoutdrago3",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
   "97625_21": {
     "id": "97625",
     "name": "WolaNnn",
@@ -764,14 +772,6 @@
     "name": "VitaVitaMin",
     "group": 101,
     "group_name": "Младший модер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "97602_21": {
-    "id": "97602",
-    "name": "scoutdrago3",
-    "group": 100,
-    "group_name": "Хелпер",
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
@@ -1015,6 +1015,14 @@
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
+  "95578_41": {
+    "id": "95578",
+    "name": "soraokobamu",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "41",
+    "server_name": "IceAndFire #1"
+  },
   "93022_41": {
     "id": "93022",
     "name": "Lunaria",
@@ -1031,6 +1039,14 @@
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
+  "95187_41": {
+    "id": "95187",
+    "name": "kobra44",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "41",
+    "server_name": "IceAndFire #1"
+  },
   "97510_41": {
     "id": "97510",
     "name": "lol_on_killer",
@@ -1039,27 +1055,19 @@
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
-  "95578_41": {
-    "id": "95578",
-    "name": "soraokobamu",
-    "group": 104,
-    "group_name": "Младший админ",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
-  "95187_41": {
-    "id": "95187",
-    "name": "kobra44",
-    "group": 104,
-    "group_name": "Младший админ",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
   "94492_41": {
     "id": "94492",
     "name": "pasha2024",
     "group": 103,
     "group_name": "Старший модератор",
+    "server_id": "41",
+    "server_name": "IceAndFire #1"
+  },
+  "96894_41": {
+    "id": "96894",
+    "name": "lpen",
+    "group": 102,
+    "group_name": "Модератор",
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
@@ -1074,14 +1082,6 @@
   "97628_41": {
     "id": "97628",
     "name": "Capsloi",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
-  "96894_41": {
-    "id": "96894",
-    "name": "lpen",
     "group": 101,
     "group_name": "Младший модер",
     "server_id": "41",
