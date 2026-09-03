@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-03 23:55:47",
+    "player": "Banan4ikPONI",
+    "badge_type": "removed",
+    "old_server": "IceAndFire #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-03 23:55:47",
+    "player": "d0m1n0shka",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Строитель",
+    "new_group_name": "Администратор"
+  },
+  {
     "timestamp": "2026-09-03 19:23:37",
     "player": "Universe77",
     "badge_type": "promoted",

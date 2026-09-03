@@ -999,14 +999,6 @@
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
-  "97328_41": {
-    "id": "97328",
-    "name": "Banan4ikPONI",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
   "97330_41": {
     "id": "97330",
     "name": "dknkt",
@@ -1034,6 +1026,14 @@
   "93022_41": {
     "id": "93022",
     "name": "Lunaria",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "41",
+    "server_name": "IceAndFire #1"
+  },
+  "97714_41": {
+    "id": "97714",
+    "name": "d0m1n0shka",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "41",
@@ -1084,14 +1084,6 @@
     "name": "Capsloi",
     "group": 101,
     "group_name": "Младший модер",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
-  "97714_41": {
-    "id": "97714",
-    "name": "d0m1n0shka",
-    "group": 99,
-    "group_name": "Строитель",
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
