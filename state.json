@@ -983,6 +983,14 @@
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
+  "89490_41": {
+    "id": "89490",
+    "name": "_Sirin_",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": "41",
+    "server_name": "IceAndFire #1"
+  },
   "79912_41": {
     "id": "79912",
     "name": "IIIPeGasIII",
@@ -1026,14 +1034,6 @@
   "93022_41": {
     "id": "93022",
     "name": "Lunaria",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
-  "89490_41": {
-    "id": "89490",
-    "name": "_Sirin_",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "41",
