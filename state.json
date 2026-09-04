@@ -263,6 +263,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "94569_40": {
+    "id": "94569",
+    "name": "Narutorendan",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "89085_40": {
     "id": "89085",
     "name": "sw1sd",
@@ -274,14 +282,6 @@
   "93447_40": {
     "id": "93447",
     "name": "CTARUK",
-    "group": 102,
-    "group_name": "Модератор",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "94569_40": {
-    "id": "94569",
-    "name": "Narutorendan",
     "group": 102,
     "group_name": "Модератор",
     "server_id": "40",
