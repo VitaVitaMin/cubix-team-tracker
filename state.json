@@ -751,17 +751,17 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
-  "97602_21": {
-    "id": "97602",
-    "name": "scoutdrago3",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
   "97625_21": {
     "id": "97625",
     "name": "WolaNnn",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
+  "97602_21": {
+    "id": "97602",
+    "name": "scoutdrago3",
     "group": 101,
     "group_name": "Младший модер",
     "server_id": "21",
