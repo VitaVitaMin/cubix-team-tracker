@@ -975,25 +975,9 @@
     "server_id": "41",
     "server_name": "IceAndFire #1"
   },
-  "97330_41": {
-    "id": "97330",
-    "name": "dknkt",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
   "94532_41": {
     "id": "94532",
     "name": "_Snejock_",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "41",
-    "server_name": "IceAndFire #1"
-  },
-  "95578_41": {
-    "id": "95578",
-    "name": "soraokobamu",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "41",
@@ -1018,6 +1002,14 @@
   "95187_41": {
     "id": "95187",
     "name": "kobra44",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "41",
+    "server_name": "IceAndFire #1"
+  },
+  "98275_41": {
+    "id": "98275",
+    "name": "_Sora",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "41",

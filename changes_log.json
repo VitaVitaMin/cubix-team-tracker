@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-09-09 22:26:38",
+    "player": "_Sora",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "IceAndFire #1",
+    "old_group_name": null,
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-09-09 22:26:38",
+    "player": "dknkt",
+    "badge_type": "removed",
+    "old_server": "IceAndFire #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-09 22:26:38",
+    "player": "soraokobamu",
+    "badge_type": "removed",
+    "old_server": "IceAndFire #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-09-09 12:17:05",
     "player": "Krak0daeL",
     "badge_type": "promoted",
