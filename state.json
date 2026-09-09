@@ -695,22 +695,6 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
-  "84572_21": {
-    "id": "84572",
-    "name": "OG_Dimka",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "91016_21": {
-    "id": "91016",
-    "name": "__Hopper__",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
   "94694_21": {
     "id": "94694",
     "name": "stampedes",
@@ -772,14 +756,6 @@
     "name": "VitaVitaMin",
     "group": 101,
     "group_name": "Младший модер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "97244_21": {
-    "id": "97244",
-    "name": "maks_ta6it",
-    "group": 100,
-    "group_name": "Хелпер",
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
@@ -1519,14 +1495,6 @@
     "server_id": "105",
     "server_name": "OneBlock-Mobile #1"
   },
-  "93499_105": {
-    "id": "93499",
-    "name": "OG_Dimka",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "105",
-    "server_name": "OneBlock-Mobile #1"
-  },
   "96066_105": {
     "id": "96066",
     "name": "SuzuaJuzo",
@@ -1538,14 +1506,6 @@
   "94814_105": {
     "id": "94814",
     "name": "stampedes",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "105",
-    "server_name": "OneBlock-Mobile #1"
-  },
-  "97961_105": {
-    "id": "97961",
-    "name": "__Hopper__",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "105",
