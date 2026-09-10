@@ -247,6 +247,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "89085_40": {
+    "id": "89085",
+    "name": "sw1sd",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "92953_40": {
     "id": "92953",
     "name": "drazdraberma",
@@ -266,14 +274,6 @@
   "94569_40": {
     "id": "94569",
     "name": "Narutorendan",
-    "group": 103,
-    "group_name": "Старший модератор",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "89085_40": {
-    "id": "89085",
-    "name": "sw1sd",
     "group": 103,
     "group_name": "Старший модератор",
     "server_id": "40",
@@ -327,6 +327,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "97572_40": {
+    "id": "97572",
+    "name": "Oxen",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "93107_40": {
     "id": "93107",
     "name": "tuuchaa",
@@ -348,14 +356,6 @@
     "name": "ShironLd",
     "group": 101,
     "group_name": "Младший модер",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "97572_40": {
-    "id": "97572",
-    "name": "Oxen",
-    "group": 100,
-    "group_name": "Хелпер",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
@@ -490,8 +490,8 @@
   "93652_6": {
     "id": "93652",
     "name": "Ramon1999",
-    "group": 105,
-    "group_name": "Администратор",
+    "group": 106,
+    "group_name": "Старший администратор",
     "server_id": "6",
     "server_name": "Galaxy #1"
   },

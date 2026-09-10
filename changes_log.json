@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-09-10 23:57:42",
+    "player": "Ramon1999",
+    "badge_type": "promoted",
+    "old_server": "Galaxy #1",
+    "new_server": "Galaxy #1",
+    "old_group_name": "Администратор",
+    "new_group_name": "Старший администратор"
+  },
+  {
+    "timestamp": "2026-09-10 23:57:42",
+    "player": "sw1sd",
+    "badge_type": "promoted",
+    "old_server": "TechnoMagic #1",
+    "new_server": "TechnoMagic #1",
+    "old_group_name": "Старший модератор",
+    "new_group_name": "Младший админ"
+  },
+  {
+    "timestamp": "2026-09-10 23:57:42",
+    "player": "Oxen",
+    "badge_type": "promoted",
+    "old_server": "TechnoMagic #1",
+    "new_server": "TechnoMagic #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-09-10 18:38:56",
     "player": "VitaVitaMin",
     "badge_type": "removed",
