@@ -711,6 +711,14 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
+  "97031_21": {
+    "id": "97031",
+    "name": "OG_Sashka",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
   "97546_21": {
     "id": "97546",
     "name": "SanZah",
@@ -727,14 +735,6 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
-  "97031_21": {
-    "id": "97031",
-    "name": "OG_Sashka",
-    "group": 103,
-    "group_name": "Старший модератор",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
   "97625_21": {
     "id": "97625",
     "name": "WolaNnn",
@@ -746,14 +746,6 @@
   "97602_21": {
     "id": "97602",
     "name": "scoutdrago3",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "97524_21": {
-    "id": "97524",
-    "name": "VitaVitaMin",
     "group": 101,
     "group_name": "Младший модер",
     "server_id": "21",
@@ -1506,8 +1498,8 @@
   "96374_105": {
     "id": "96374",
     "name": "coteso",
-    "group": 103,
-    "group_name": "Старший модератор",
+    "group": 104,
+    "group_name": "Младший админ",
     "server_id": "105",
     "server_name": "OneBlock-Mobile #1"
   },
