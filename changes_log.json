@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-13 21:04:45",
+    "player": "Future9",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Industrial #1",
+    "old_group_name": null,
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-09-13 21:04:45",
+    "player": "owlqueen135",
+    "badge_type": "removed",
+    "old_server": "Galaxy #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-09-13 18:03:34",
     "player": "BobbyBryce",
     "badge_type": "removed",

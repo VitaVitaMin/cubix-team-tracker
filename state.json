@@ -495,14 +495,6 @@
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
-  "93409_6": {
-    "id": "93409",
-    "name": "owlqueen135",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "6",
-    "server_name": "Galaxy #1"
-  },
   "88317_6": {
     "id": "88317",
     "name": "aviamodel",
@@ -572,6 +564,14 @@
     "name": "SLAVADIMA",
     "group": 105,
     "group_name": "Администратор",
+    "server_id": "7",
+    "server_name": "Industrial #1"
+  },
+  "98351_7": {
+    "id": "98351",
+    "name": "Future9",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "7",
     "server_name": "Industrial #1"
   },
