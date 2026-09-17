@@ -839,6 +839,22 @@
     "server_id": "36",
     "server_name": "Pixelmon 1.16.5 #1"
   },
+  "97995_36": {
+    "id": "97995",
+    "name": "amirka_xxl",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "36",
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97996_36": {
+    "id": "97996",
+    "name": "hennesay",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "36",
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
   "98095_36": {
     "id": "98095",
     "name": "shadooooew",
@@ -850,22 +866,6 @@
   "97654_36": {
     "id": "97654",
     "name": "RishaBlin",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
-  "97995_36": {
-    "id": "97995",
-    "name": "amirka_xxl",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
-  "97996_36": {
-    "id": "97996",
-    "name": "hennesay",
     "group": 100,
     "group_name": "Хелпер",
     "server_id": "36",

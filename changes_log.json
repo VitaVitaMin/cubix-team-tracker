@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-17 16:48:20",
+    "player": "amirka_xxl",
+    "badge_type": "promoted",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-09-17 16:48:20",
+    "player": "hennesay",
+    "badge_type": "promoted",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-09-16 18:48:02",
     "player": "Aventinus",
     "badge_type": "added",
