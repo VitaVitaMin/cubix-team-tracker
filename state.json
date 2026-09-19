@@ -511,6 +511,14 @@
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
+  "98429_6": {
+    "id": "98429",
+    "name": "hapa",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "6",
+    "server_name": "Galaxy #1"
+  },
   "95433_6": {
     "id": "95433",
     "name": "EnJay",
