@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-09-19 17:22:57",
+    "player": "plodojorka",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Create #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-09-18 16:40:03",
     "player": "Dvjvjdsbsb",
     "badge_type": "removed",
