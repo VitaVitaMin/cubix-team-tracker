@@ -719,14 +719,6 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
-  "98043_21": {
-    "id": "98043",
-    "name": "Best4PlayYork",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
   "97031_21": {
     "id": "97031",
     "name": "OG_Sashka",
@@ -767,19 +759,11 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
-  "98384_21": {
-    "id": "98384",
-    "name": "Aventinus",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
   "97275_21": {
     "id": "97275",
     "name": "Knigo",
-    "group": 100,
-    "group_name": "Хелпер",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
@@ -1508,14 +1492,6 @@
     "name": "twiinks_uwu",
     "group": 106,
     "group_name": "Старший администратор",
-    "server_id": "105",
-    "server_name": "OneBlock-Mobile #1"
-  },
-  "98364_105": {
-    "id": "98364",
-    "name": "Best4PlayYork",
-    "group": 105,
-    "group_name": "Администратор",
     "server_id": "105",
     "server_name": "OneBlock-Mobile #1"
   },

@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": "2026-09-21 14:29:21",
+    "player": "Aventinus",
+    "badge_type": "removed",
+    "old_server": "OneBlock #1",
+    "new_server": null,
+    "old_group_name": "Младший модер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-21 14:29:21",
+    "player": "Best4PlayYork",
+    "badge_type": "removed",
+    "old_server": "OneBlock-Mobile #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-21 14:29:21",
+    "player": "Best4PlayYork",
+    "badge_type": "removed",
+    "old_server": "OneBlock #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-21 14:29:21",
+    "player": "Knigo",
+    "badge_type": "promoted",
+    "old_server": "OneBlock #1",
+    "new_server": "OneBlock #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-09-19 19:32:19",
     "player": "hapa",
     "badge_type": "added",
