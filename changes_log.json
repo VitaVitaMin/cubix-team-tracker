@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-09-21 23:10:10",
+    "player": "Eifel",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Create #1",
+    "old_group_name": null,
+    "new_group_name": "Строитель"
+  },
+  {
     "timestamp": "2026-09-21 19:42:36",
     "player": "Marquis666",
     "badge_type": "removed",
