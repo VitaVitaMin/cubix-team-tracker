@@ -1479,14 +1479,6 @@
     "server_id": "101",
     "server_name": "TechnoMagic-Mobile #1"
   },
-  "69556_105": {
-    "id": "69556",
-    "name": "Vinyl_",
-    "group": 106,
-    "group_name": "Старший администратор",
-    "server_id": "105",
-    "server_name": "OneBlock-Mobile #1"
-  },
   "89809_105": {
     "id": "89809",
     "name": "twiinks_uwu",
@@ -1506,6 +1498,14 @@
   "94814_105": {
     "id": "94814",
     "name": "stampedes",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "105",
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "69556_105": {
+    "id": "69556",
+    "name": "Vinyl_",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "105",
