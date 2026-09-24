@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-24 23:50:06",
+    "player": "_Qusya_",
+    "badge_type": "removed",
+    "old_server": "TechnoMagic-Mobile #1",
+    "new_server": null,
+    "old_group_name": "Старший администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-24 23:50:06",
+    "player": "_Qusya_",
+    "badge_type": "removed",
+    "old_server": "TechnoMagic #1",
+    "new_server": null,
+    "old_group_name": "Старший администратор",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-09-24 17:29:55",
     "player": "Vinyl_",
     "badge_type": "added",
