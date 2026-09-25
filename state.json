@@ -207,14 +207,6 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
-  "97892_40": {
-    "id": "97892",
-    "name": "ginn0",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
   "88173_40": {
     "id": "88173",
     "name": "Svetlana565",
@@ -231,19 +223,27 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
-  "88046_40": {
-    "id": "88046",
-    "name": "Assasin_Gelin",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
   "88048_40": {
     "id": "88048",
     "name": "zevon",
     "group": 105,
     "group_name": "Администратор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
+  "97892_40": {
+    "id": "97892",
+    "name": "ginn0",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
+  "88046_40": {
+    "id": "88046",
+    "name": "Assasin_Gelin",
+    "group": 104,
+    "group_name": "Младший админ",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
@@ -1439,14 +1439,6 @@
     "server_id": "101",
     "server_name": "TechnoMagic-Mobile #1"
   },
-  "73008_101": {
-    "id": "73008",
-    "name": "ginn0",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "101",
-    "server_name": "TechnoMagic-Mobile #1"
-  },
   "97893_101": {
     "id": "97893",
     "name": "Svetlana565",
@@ -1463,14 +1455,6 @@
     "server_id": "101",
     "server_name": "TechnoMagic-Mobile #1"
   },
-  "88047_101": {
-    "id": "88047",
-    "name": "Assasin_Gelin",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "101",
-    "server_name": "TechnoMagic-Mobile #1"
-  },
   "81649_101": {
     "id": "81649",
     "name": "Oculin",
@@ -1479,9 +1463,25 @@
     "server_id": "101",
     "server_name": "TechnoMagic-Mobile #1"
   },
+  "73008_101": {
+    "id": "73008",
+    "name": "ginn0",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": "101",
+    "server_name": "TechnoMagic-Mobile #1"
+  },
   "89161_101": {
     "id": "89161",
     "name": "Vadimvolk19",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": "101",
+    "server_name": "TechnoMagic-Mobile #1"
+  },
+  "88047_101": {
+    "id": "88047",
+    "name": "Assasin_Gelin",
     "group": 104,
     "group_name": "Младший админ",
     "server_id": "101",

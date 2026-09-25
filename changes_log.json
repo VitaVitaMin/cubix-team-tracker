@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": "2026-09-25 10:07:28",
+    "player": "ginn0",
+    "badge_type": "demoted",
+    "old_server": "TechnoMagic-Mobile #1",
+    "new_server": "TechnoMagic-Mobile #1",
+    "old_group_name": "Администратор",
+    "new_group_name": "Младший админ"
+  },
+  {
+    "timestamp": "2026-09-25 10:07:28",
+    "player": "ginn0",
+    "badge_type": "demoted",
+    "old_server": "TechnoMagic #1",
+    "new_server": "TechnoMagic #1",
+    "old_group_name": "Администратор",
+    "new_group_name": "Младший админ"
+  },
+  {
+    "timestamp": "2026-09-25 10:07:28",
+    "player": "Assasin_Gelin",
+    "badge_type": "demoted",
+    "old_server": "TechnoMagic #1",
+    "new_server": "TechnoMagic #1",
+    "old_group_name": "Администратор",
+    "new_group_name": "Младший админ"
+  },
+  {
+    "timestamp": "2026-09-25 10:07:28",
+    "player": "Assasin_Gelin",
+    "badge_type": "demoted",
+    "old_server": "TechnoMagic-Mobile #1",
+    "new_server": "TechnoMagic-Mobile #1",
+    "old_group_name": "Администратор",
+    "new_group_name": "Младший админ"
+  },
+  {
     "timestamp": "2026-09-24 23:50:06",
     "player": "_Qusya_",
     "badge_type": "removed",
