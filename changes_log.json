@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-25 15:28:32",
+    "player": "vadyaoooo",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "TechnoMagic #1",
+    "old_group_name": null,
+    "new_group_name": "Модератор"
+  },
+  {
+    "timestamp": "2026-09-25 15:28:32",
+    "player": "Manco_",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "HiTech #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-09-25 10:07:28",
     "player": "ginn0",
     "badge_type": "demoted",

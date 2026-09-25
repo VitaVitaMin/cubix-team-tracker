@@ -87,6 +87,14 @@
     "server_id": "1",
     "server_name": "HiTech #1"
   },
+  "98524_1": {
+    "id": "98524",
+    "name": "Manco_",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "1",
+    "server_name": "HiTech #1"
+  },
   "96932_1": {
     "id": "96932",
     "name": "K_isk_A",
@@ -306,6 +314,14 @@
   "95403_40": {
     "id": "95403",
     "name": "dedavnutri",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
+  "98558_40": {
+    "id": "98558",
+    "name": "vadyaoooo",
     "group": 102,
     "group_name": "Модератор",
     "server_id": "40",
