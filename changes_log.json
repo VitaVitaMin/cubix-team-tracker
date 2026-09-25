@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "FNAF_F",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Galaxy #1",
+    "old_group_name": null,
+    "new_group_name": "Модератор"
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "SuperLoca",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "SkyTech #1",
+    "old_group_name": null,
+    "new_group_name": "Модератор"
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "Xo4yCtrlV",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": null,
+    "new_group_name": "Строитель"
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "lpen",
+    "badge_type": "removed",
+    "old_server": "IceAndFire #1",
+    "new_server": null,
+    "old_group_name": "Модератор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "lol_on_killer",
+    "badge_type": "removed",
+    "old_server": "IceAndFire #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "MDefe",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Младший модер",
+    "new_group_name": "Модератор"
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "Assasin_Gelin",
+    "badge_type": "promoted",
+    "old_server": "TechnoMagic-Mobile #1",
+    "new_server": "TechnoMagic-Mobile #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "Capsloi",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Младший модер",
+    "new_group_name": "Модератор"
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "ginn0",
+    "badge_type": "promoted",
+    "old_server": "TechnoMagic-Mobile #1",
+    "new_server": "TechnoMagic-Mobile #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-09-25 19:29:54",
+    "player": "Vinyl_",
+    "badge_type": "promoted",
+    "old_server": "Galaxy #1",
+    "new_server": "Galaxy #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Администратор"
+  },
+  {
     "timestamp": "2026-09-25 15:28:32",
     "player": "vadyaoooo",
     "badge_type": "added",
