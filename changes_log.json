@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": "2026-09-26 12:10:27",
+    "player": "URUM43",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Galaxy #1",
+    "old_group_name": null,
+    "new_group_name": "Старший модератор"
+  },
+  {
+    "timestamp": "2026-09-26 12:10:27",
+    "player": "hapa",
+    "badge_type": "removed",
+    "old_server": "Galaxy #1",
+    "new_server": null,
+    "old_group_name": "Хелпер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-26 12:10:27",
+    "player": "Leirus",
+    "badge_type": "removed",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": null,
+    "old_group_name": "Хелпер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-26 12:10:27",
+    "player": "Tenma1w",
+    "badge_type": "removed",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": null,
+    "old_group_name": "Хелпер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-26 12:10:27",
+    "player": "FNAF_F",
+    "badge_type": "promoted",
+    "old_server": "Galaxy #1",
+    "new_server": "Galaxy #1",
+    "old_group_name": "Модератор",
+    "new_group_name": "Старший модератор"
+  },
+  {
     "timestamp": "2026-09-25 19:29:54",
     "player": "FNAF_F",
     "badge_type": "added",

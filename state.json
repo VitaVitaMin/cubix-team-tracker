@@ -538,16 +538,16 @@
   "98595_6": {
     "id": "98595",
     "name": "FNAF_F",
-    "group": 102,
-    "group_name": "Модератор",
+    "group": 103,
+    "group_name": "Старший модератор",
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
-  "98429_6": {
-    "id": "98429",
-    "name": "hapa",
-    "group": 100,
-    "group_name": "Хелпер",
+  "98683_6": {
+    "id": "98683",
+    "name": "URUM43",
+    "group": 103,
+    "group_name": "Старший модератор",
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
@@ -890,22 +890,6 @@
   "97654_36": {
     "id": "97654",
     "name": "RishaBlin",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
-  "98009_36": {
-    "id": "98009",
-    "name": "Leirus",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
-  "98010_36": {
-    "id": "98010",
-    "name": "Tenma1w",
     "group": 100,
     "group_name": "Хелпер",
     "server_id": "36",
