@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-09-27 21:14:56",
+    "player": "doodos_attakaa",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OceanBlock #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-09-27 21:14:56",
+    "player": "Tiriccz_2",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OceanBlock #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-09-27 21:14:56",
+    "player": "Krak0daeL",
+    "badge_type": "promoted",
+    "old_server": "OceanBlock #1",
+    "new_server": "OceanBlock #1",
+    "old_group_name": "Младший модер",
+    "new_group_name": "Модератор"
+  },
+  {
     "timestamp": "2026-09-27 17:54:59",
     "player": "leonhl",
     "badge_type": "removed",

@@ -1106,14 +1106,30 @@
   "98004_42": {
     "id": "98004",
     "name": "Krak0daeL",
-    "group": 101,
-    "group_name": "Младший модер",
+    "group": 102,
+    "group_name": "Модератор",
     "server_id": "42",
     "server_name": "OceanBlock #1"
   },
   "98105_42": {
     "id": "98105",
     "name": "_ZiGmOn_",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "42",
+    "server_name": "OceanBlock #1"
+  },
+  "98806_42": {
+    "id": "98806",
+    "name": "Tiriccz_2",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "42",
+    "server_name": "OceanBlock #1"
+  },
+  "98807_42": {
+    "id": "98807",
+    "name": "doodos_attakaa",
     "group": 100,
     "group_name": "Хелпер",
     "server_id": "42",
