@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-27 13:14:35",
+    "player": "SoLoZeeK",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-09-27 13:14:35",
+    "player": "MrWedimen",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock-Mobile #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-09-26 16:39:59",
     "player": "Matrix_Create",
     "badge_type": "added",

@@ -799,6 +799,14 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
+  "98785_21": {
+    "id": "98785",
+    "name": "SoLoZeeK",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
   "77075_36": {
     "id": "77075",
     "name": "Desires",
@@ -1548,6 +1556,14 @@
     "name": "ToedTripod1582",
     "group": 101,
     "group_name": "Младший модер",
+    "server_id": "105",
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "98783_105": {
+    "id": "98783",
+    "name": "MrWedimen",
+    "group": 100,
+    "group_name": "Хелпер",
     "server_id": "105",
     "server_name": "OneBlock-Mobile #1"
   }
