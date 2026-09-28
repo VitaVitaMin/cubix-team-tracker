@@ -351,6 +351,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "98860_40": {
+    "id": "98860",
+    "name": "Overlord476",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "94403_40": {
     "id": "94403",
     "name": "Galleta",
@@ -754,8 +762,8 @@
   "97625_21": {
     "id": "97625",
     "name": "WolaNnn",
-    "group": 102,
-    "group_name": "Модератор",
+    "group": 103,
+    "group_name": "Старший модератор",
     "server_id": "21",
     "server_name": "OneBlock #1"
   },

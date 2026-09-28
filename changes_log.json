@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-28 19:35:17",
+    "player": "Overlord476",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "TechnoMagic #1",
+    "old_group_name": null,
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-09-28 19:35:17",
+    "player": "WolaNnn",
+    "badge_type": "promoted",
+    "old_server": "OneBlock #1",
+    "new_server": "OneBlock #1",
+    "old_group_name": "Модератор",
+    "new_group_name": "Старший модератор"
+  },
+  {
     "timestamp": "2026-09-28 11:55:54",
     "player": "tuuchaa",
     "badge_type": "removed",
