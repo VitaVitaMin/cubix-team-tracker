@@ -295,14 +295,6 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
-  "93447_40": {
-    "id": "93447",
-    "name": "CTARUK",
-    "group": 102,
-    "group_name": "Модератор",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
   "95354_40": {
     "id": "95354",
     "name": "Odin1722",
@@ -359,25 +351,9 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
-  "93107_40": {
-    "id": "93107",
-    "name": "tuuchaa",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
   "94403_40": {
     "id": "94403",
     "name": "Galleta",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "94695_40": {
-    "id": "94695",
-    "name": "ShironLd",
     "group": 101,
     "group_name": "Младший модер",
     "server_id": "40",
@@ -735,6 +711,14 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
+  "97031_21": {
+    "id": "97031",
+    "name": "OG_Sashka",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
   "96067_21": {
     "id": "96067",
     "name": "SuzuaJuzo",
@@ -748,14 +732,6 @@
     "name": "stampedes",
     "group": 105,
     "group_name": "Администратор",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "97031_21": {
-    "id": "97031",
-    "name": "OG_Sashka",
-    "group": 104,
-    "group_name": "Младший админ",
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
