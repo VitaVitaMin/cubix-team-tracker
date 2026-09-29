@@ -623,14 +623,6 @@
     "server_id": "7",
     "server_name": "Industrial #1"
   },
-  "97898_7": {
-    "id": "97898",
-    "name": "_StellVortex_",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "7",
-    "server_name": "Industrial #1"
-  },
   "69206_7": {
     "id": "69206",
     "name": "devilgirl2007",
@@ -1562,6 +1554,14 @@
   "94814_105": {
     "id": "94814",
     "name": "stampedes",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "105",
+    "server_name": "OneBlock-Mobile #1"
+  },
+  "98919_105": {
+    "id": "98919",
+    "name": "OG_Sashka",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "105",

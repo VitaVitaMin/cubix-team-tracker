@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-09-29 22:55:07",
+    "player": "OG_Sashka",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock-Mobile #1",
+    "old_group_name": null,
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-09-29 22:55:07",
+    "player": "_StellVortex_",
+    "badge_type": "removed",
+    "old_server": "Industrial #1",
+    "new_server": null,
+    "old_group_name": "Хелпер",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-09-29 18:49:39",
     "player": "Your_Soul_",
     "badge_type": "added",
