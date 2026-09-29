@@ -359,6 +359,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "98878_40": {
+    "id": "98878",
+    "name": "tuuchaa",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "94403_40": {
     "id": "94403",
     "name": "Galleta",
@@ -572,6 +580,14 @@
     "name": "Xallo",
     "group": 106,
     "group_name": "Старший администратор",
+    "server_id": "7",
+    "server_name": "Industrial #1"
+  },
+  "98883_7": {
+    "id": "98883",
+    "name": "ASASA1423",
+    "group": 105,
+    "group_name": "Администратор",
     "server_id": "7",
     "server_name": "Industrial #1"
   },
