@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "_Sora",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock #1",
+    "old_group_name": null,
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "Pashketik",
+    "badge_type": "removed",
+    "old_server": "OceanBlock #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "Urkosta",
+    "badge_type": "removed",
+    "old_server": "Cobblemon #1",
+    "new_server": null,
+    "old_group_name": "Младший админ",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "Aom1neDaiki",
+    "badge_type": "removed",
+    "old_server": "Cobblemon #1",
+    "new_server": null,
+    "old_group_name": "Модератор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "DanushaCeksu",
+    "badge_type": "removed",
+    "old_server": "Cobblemon #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "IIIPeGasIII",
+    "badge_type": "promoted",
+    "old_server": "IceAndFire #1",
+    "new_server": "IceAndFire #1",
+    "old_group_name": "Администратор",
+    "new_group_name": "Старший администратор"
+  },
+  {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "jojik23",
+    "badge_type": "demoted",
+    "old_server": "Create #1",
+    "new_server": "Create #1",
+    "old_group_name": "Старший администратор",
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-09-30 15:11:57",
+    "player": "_ZiGmOn_",
+    "badge_type": "promoted",
+    "old_server": "OceanBlock #1",
+    "new_server": "OceanBlock #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-09-29 22:55:07",
     "player": "OG_Sashka",
     "badge_type": "added",
