@@ -167,6 +167,14 @@
     "server_id": "3",
     "server_name": "SkyTech #1"
   },
+  "98981_3": {
+    "id": "98981",
+    "name": "_ZNAET_",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "3",
+    "server_name": "SkyTech #1"
+  },
   "76807_40": {
     "id": "76807",
     "name": "MrRoBoTTT",
@@ -298,30 +306,30 @@
   "95354_40": {
     "id": "95354",
     "name": "Odin1722",
-    "group": 102,
-    "group_name": "Модератор",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "94629_40": {
-    "id": "94629",
-    "name": "JostSopl",
-    "group": 102,
-    "group_name": "Модератор",
+    "group": 103,
+    "group_name": "Старший модератор",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
   "95403_40": {
     "id": "95403",
     "name": "dedavnutri",
-    "group": 102,
-    "group_name": "Модератор",
+    "group": 103,
+    "group_name": "Старший модератор",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
   "98558_40": {
     "id": "98558",
     "name": "vadyaoooo",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
+  "94629_40": {
+    "id": "94629",
+    "name": "JostSopl",
     "group": 102,
     "group_name": "Модератор",
     "server_id": "40",
@@ -847,14 +855,6 @@
     "server_id": "36",
     "server_name": "Pixelmon 1.16.5 #1"
   },
-  "98904_36": {
-    "id": "98904",
-    "name": "Your_Soul_",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
   "97164_36": {
     "id": "97164",
     "name": "Keksorino",
@@ -887,17 +887,17 @@
     "server_id": "36",
     "server_name": "Pixelmon 1.16.5 #1"
   },
-  "97995_36": {
-    "id": "97995",
-    "name": "amirka_xxl",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
   "97996_36": {
     "id": "97996",
     "name": "hennesay",
+    "group": 102,
+    "group_name": "Модератор",
+    "server_id": "36",
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "97995_36": {
+    "id": "97995",
+    "name": "amirka_xxl",
     "group": 101,
     "group_name": "Младший модер",
     "server_id": "36",
@@ -1274,8 +1274,8 @@
   "95099_44": {
     "id": "95099",
     "name": "jojik23",
-    "group": 100,
-    "group_name": "Хелпер",
+    "group": 99,
+    "group_name": "Строитель",
     "server_id": "44",
     "server_name": "Create #1"
   },

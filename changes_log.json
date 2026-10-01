@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-10-01 19:24:55",
+    "player": "_ZNAET_",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "SkyTech #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-10-01 19:24:55",
+    "player": "Your_Soul_",
+    "badge_type": "removed",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-10-01 19:24:55",
+    "player": "vadyaoooo",
+    "badge_type": "promoted",
+    "old_server": "TechnoMagic #1",
+    "new_server": "TechnoMagic #1",
+    "old_group_name": "Модератор",
+    "new_group_name": "Старший модератор"
+  },
+  {
+    "timestamp": "2026-10-01 19:24:55",
+    "player": "Odin1722",
+    "badge_type": "promoted",
+    "old_server": "TechnoMagic #1",
+    "new_server": "TechnoMagic #1",
+    "old_group_name": "Модератор",
+    "new_group_name": "Старший модератор"
+  },
+  {
+    "timestamp": "2026-10-01 19:24:55",
+    "player": "hennesay",
+    "badge_type": "promoted",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": "Младший модер",
+    "new_group_name": "Модератор"
+  },
+  {
+    "timestamp": "2026-10-01 19:24:55",
+    "player": "jojik23",
+    "badge_type": "demoted",
+    "old_server": "Create #1",
+    "new_server": "Create #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Строитель"
+  },
+  {
+    "timestamp": "2026-10-01 19:24:55",
+    "player": "dedavnutri",
+    "badge_type": "promoted",
+    "old_server": "TechnoMagic #1",
+    "new_server": "TechnoMagic #1",
+    "old_group_name": "Модератор",
+    "new_group_name": "Старший модератор"
+  },
+  {
     "timestamp": "2026-10-01 13:48:51",
     "player": "Danil65",
     "badge_type": "added",
