@@ -455,6 +455,14 @@
     "server_id": "5",
     "server_name": "MagicRPG #1"
   },
+  "98965_5": {
+    "id": "98965",
+    "name": "hohhhaaa",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "5",
+    "server_name": "MagicRPG #1"
+  },
   "78598_6": {
     "id": "78598",
     "name": "Dam_v_Tablo",
@@ -615,11 +623,11 @@
     "server_id": "7",
     "server_name": "Industrial #1"
   },
-  "98351_7": {
-    "id": "98351",
-    "name": "Future9",
-    "group": 101,
-    "group_name": "Младший модер",
+  "98967_7": {
+    "id": "98967",
+    "name": "Danil65",
+    "group": 104,
+    "group_name": "Младший админ",
     "server_id": "7",
     "server_name": "Industrial #1"
   },
@@ -1404,6 +1412,14 @@
     "name": "Ramon1999",
     "group": 105,
     "group_name": "Администратор",
+    "server_id": "100",
+    "server_name": "HiTech-Mobile #1"
+  },
+  "98964_100": {
+    "id": "98964",
+    "name": "ma6R6viN",
+    "group": 100,
+    "group_name": "Хелпер",
     "server_id": "100",
     "server_name": "HiTech-Mobile #1"
   },
