@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-10-01 06:26:17",
+    "player": "coteso",
+    "badge_type": "promoted",
+    "old_server": "OneBlock-Mobile #1",
+    "new_server": "OneBlock-Mobile #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
     "timestamp": "2026-09-30 15:11:57",
     "player": "_Sora",
     "badge_type": "added",
