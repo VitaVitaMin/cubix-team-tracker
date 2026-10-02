@@ -855,8 +855,8 @@
     "server_id": "36",
     "server_name": "Pixelmon 1.16.5 #1"
   },
-  "97164_36": {
-    "id": "97164",
+  "99015_36": {
+    "id": "99015",
     "name": "Keksorino",
     "group": 105,
     "group_name": "Администратор",
@@ -1239,14 +1239,6 @@
     "server_id": "44",
     "server_name": "Create #1"
   },
-  "98903_44": {
-    "id": "98903",
-    "name": "Your_Soul_",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "44",
-    "server_name": "Create #1"
-  },
   "98477_44": {
     "id": "98477",
     "name": "_Sora",
@@ -1266,8 +1258,8 @@
   "98425_44": {
     "id": "98425",
     "name": "plodojorka",
-    "group": 100,
-    "group_name": "Хелпер",
+    "group": 99,
+    "group_name": "Строитель",
     "server_id": "44",
     "server_name": "Create #1"
   },

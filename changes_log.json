@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": "2026-10-02 20:54:27",
+    "player": "Keksorino",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Pixelmon 1.16.5 #1",
+    "old_group_name": null,
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-10-02 20:54:27",
+    "player": "Your_Soul_",
+    "badge_type": "removed",
+    "old_server": "Create #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-10-02 20:54:27",
+    "player": "Keksorino",
+    "badge_type": "removed",
+    "old_server": "Pixelmon 1.16.5 #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-10-02 20:54:27",
+    "player": "plodojorka",
+    "badge_type": "demoted",
+    "old_server": "Create #1",
+    "new_server": "Create #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Строитель"
+  },
+  {
     "timestamp": "2026-10-02 16:12:18",
     "player": "ToedTripod1582",
     "badge_type": "removed",
