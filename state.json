@@ -247,6 +247,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "88046_40": {
+    "id": "88046",
+    "name": "Assasin_Gelin",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "88048_40": {
     "id": "88048",
     "name": "zevon",
@@ -258,14 +266,6 @@
   "97892_40": {
     "id": "97892",
     "name": "ginn0",
-    "group": 104,
-    "group_name": "Младший админ",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "88046_40": {
-    "id": "88046",
-    "name": "Assasin_Gelin",
     "group": 104,
     "group_name": "Младший админ",
     "server_id": "40",
@@ -1564,14 +1564,6 @@
     "name": "coteso",
     "group": 105,
     "group_name": "Администратор",
-    "server_id": "105",
-    "server_name": "OneBlock-Mobile #1"
-  },
-  "97336_105": {
-    "id": "97336",
-    "name": "ToedTripod1582",
-    "group": 101,
-    "group_name": "Младший модер",
     "server_id": "105",
     "server_name": "OneBlock-Mobile #1"
   },
