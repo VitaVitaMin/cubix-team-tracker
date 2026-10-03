@@ -231,6 +231,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "97892_40": {
+    "id": "97892",
+    "name": "ginn0",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "88173_40": {
     "id": "88173",
     "name": "Svetlana565",
@@ -242,6 +250,14 @@
   "87491_40": {
     "id": "87491",
     "name": "Best4PlayYork",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
+  "99041_40": {
+    "id": "99041",
+    "name": "anaeus",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "40",
@@ -260,14 +276,6 @@
     "name": "zevon",
     "group": 105,
     "group_name": "Администратор",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "97892_40": {
-    "id": "97892",
-    "name": "ginn0",
-    "group": 104,
-    "group_name": "Младший админ",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
