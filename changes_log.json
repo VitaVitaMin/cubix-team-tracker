@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-10-03 16:07:29",
+    "player": "DarkimuSSS",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock #1",
+    "old_group_name": null,
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-10-03 16:07:29",
+    "player": "DarkimuSSS",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock-Mobile #1",
+    "old_group_name": null,
+    "new_group_name": "Администратор"
+  },
+  {
+    "timestamp": "2026-10-03 16:07:29",
+    "player": "SanZah",
+    "badge_type": "promoted",
+    "old_server": "OneBlock #1",
+    "new_server": "OneBlock #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
     "timestamp": "2026-10-02 20:54:27",
     "player": "Keksorino",
     "badge_type": "added",
