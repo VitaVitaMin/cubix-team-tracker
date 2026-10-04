@@ -890,6 +890,14 @@
   "96697_36": {
     "id": "96697",
     "name": "Vantyzavr",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": "36",
+    "server_name": "Pixelmon 1.16.5 #1"
+  },
+  "96174_36": {
+    "id": "96174",
+    "name": "Xaku",
     "group": 103,
     "group_name": "Старший модератор",
     "server_id": "36",
@@ -898,14 +906,6 @@
   "97306_36": {
     "id": "97306",
     "name": "Eifel",
-    "group": 102,
-    "group_name": "Модератор",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
-  "96174_36": {
-    "id": "96174",
-    "name": "Xaku",
     "group": 102,
     "group_name": "Модератор",
     "server_id": "36",
