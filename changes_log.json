@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-10-08 14:50:51",
+    "player": "Cthulhu",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock-Mobile #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-10-06 16:12:21",
     "player": "jojik23",
     "badge_type": "removed",
