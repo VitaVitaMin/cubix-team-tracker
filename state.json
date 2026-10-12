@@ -255,6 +255,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "99292_40": {
+    "id": "99292",
+    "name": "jojik23",
+    "group": 105,
+    "group_name": "Администратор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "99041_40": {
     "id": "99041",
     "name": "anaeus",
@@ -378,14 +386,6 @@
   "98878_40": {
     "id": "98878",
     "name": "tuuchaa",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "94403_40": {
-    "id": "94403",
-    "name": "Galleta",
     "group": 101,
     "group_name": "Младший модер",
     "server_id": "40",
@@ -1322,14 +1322,6 @@
   "96340_45": {
     "id": "96340",
     "name": "Bet",
-    "group": 106,
-    "group_name": "Старший администратор",
-    "server_id": "45",
-    "server_name": "Pixelmon 1.21.1 #1"
-  },
-  "96341_45": {
-    "id": "96341",
-    "name": "jojik23",
     "group": 106,
     "group_name": "Старший администратор",
     "server_id": "45",
