@@ -287,19 +287,19 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
-  "89085_40": {
-    "id": "89085",
-    "name": "sw1sd",
+  "92953_40": {
+    "id": "92953",
+    "name": "drazdraberma",
     "group": 104,
     "group_name": "Младший админ",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
-  "92953_40": {
-    "id": "92953",
-    "name": "drazdraberma",
-    "group": 103,
-    "group_name": "Старший модератор",
+  "89085_40": {
+    "id": "89085",
+    "name": "sw1sd",
+    "group": 104,
+    "group_name": "Младший админ",
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
@@ -327,6 +327,14 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
+  "94629_40": {
+    "id": "94629",
+    "name": "JostSopl",
+    "group": 103,
+    "group_name": "Старший модератор",
+    "server_id": "40",
+    "server_name": "TechnoMagic #1"
+  },
   "95403_40": {
     "id": "95403",
     "name": "dedavnutri",
@@ -343,9 +351,9 @@
     "server_id": "40",
     "server_name": "TechnoMagic #1"
   },
-  "94629_40": {
-    "id": "94629",
-    "name": "JostSopl",
+  "97545_40": {
+    "id": "97545",
+    "name": "IvanKarman",
     "group": 102,
     "group_name": "Модератор",
     "server_id": "40",
@@ -354,14 +362,6 @@
   "97537_40": {
     "id": "97537",
     "name": "Metolus",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "40",
-    "server_name": "TechnoMagic #1"
-  },
-  "97545_40": {
-    "id": "97545",
-    "name": "IvanKarman",
     "group": 101,
     "group_name": "Младший модер",
     "server_id": "40",
