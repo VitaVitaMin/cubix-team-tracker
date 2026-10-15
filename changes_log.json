@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-10-15 19:21:00",
+    "player": "Covspot",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "MagicRPG #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-10-15 19:21:00",
+    "player": "Panda_H",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "MagicRPG #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
+    "timestamp": "2026-10-15 19:21:00",
+    "player": "hohhhaaa",
+    "badge_type": "removed",
+    "old_server": "MagicRPG #1",
+    "new_server": null,
+    "old_group_name": "Хелпер",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-10-13 01:57:18",
     "player": "JostSopl",
     "badge_type": "promoted",

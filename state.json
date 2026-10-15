@@ -479,9 +479,17 @@
     "server_id": "5",
     "server_name": "MagicRPG #1"
   },
-  "98965_5": {
-    "id": "98965",
-    "name": "hohhhaaa",
+  "99389_5": {
+    "id": "99389",
+    "name": "Covspot",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "5",
+    "server_name": "MagicRPG #1"
+  },
+  "99390_5": {
+    "id": "99390",
+    "name": "Panda_H",
     "group": 100,
     "group_name": "Хелпер",
     "server_id": "5",
