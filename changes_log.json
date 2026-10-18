@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-10-18 19:34:45",
+    "player": "Universe77",
+    "badge_type": "removed",
+    "old_server": "HiTech #1",
+    "new_server": null,
+    "old_group_name": "Младший модер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-10-18 19:34:45",
+    "player": "Manco_",
+    "badge_type": "removed",
+    "old_server": "HiTech #1",
+    "new_server": null,
+    "old_group_name": "Хелпер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-10-18 19:34:45",
+    "player": "CuNuU_KuT",
+    "badge_type": "removed",
+    "old_server": "HiTech #1",
+    "new_server": null,
+    "old_group_name": "Младший модер",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-10-15 22:38:16",
     "player": "shadooooew",
     "badge_type": "removed",
