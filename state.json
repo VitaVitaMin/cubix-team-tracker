@@ -823,6 +823,14 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
+  "98785_21": {
+    "id": "98785",
+    "name": "SoLoZeeK",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
   "97275_21": {
     "id": "97275",
     "name": "Knigo",
@@ -834,14 +842,6 @@
   "99126_21": {
     "id": "99126",
     "name": "ignattheG1",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "98785_21": {
-    "id": "98785",
-    "name": "SoLoZeeK",
     "group": 100,
     "group_name": "Хелпер",
     "server_id": "21",
@@ -1583,6 +1583,14 @@
     "server_id": "105",
     "server_name": "OneBlock-Mobile #1"
   },
+  "98783_105": {
+    "id": "98783",
+    "name": "MrWedimen",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "105",
+    "server_name": "OneBlock-Mobile #1"
+  },
   "99102_105": {
     "id": "99102",
     "name": "NePonAVotOnGde",
@@ -1594,14 +1602,6 @@
   "99166_105": {
     "id": "99166",
     "name": "Cthulhu",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "105",
-    "server_name": "OneBlock-Mobile #1"
-  },
-  "98783_105": {
-    "id": "98783",
-    "name": "MrWedimen",
     "group": 100,
     "group_name": "Хелпер",
     "server_id": "105",

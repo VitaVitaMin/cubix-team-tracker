@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-20 17:27:34",
+    "player": "MrWedimen",
+    "badge_type": "promoted",
+    "old_server": "OneBlock-Mobile #1",
+    "new_server": "OneBlock-Mobile #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-10-20 17:27:34",
+    "player": "SoLoZeeK",
+    "badge_type": "promoted",
+    "old_server": "OneBlock #1",
+    "new_server": "OneBlock #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-10-20 01:11:36",
     "player": "URUM43",
     "badge_type": "promoted",
