@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-20 01:11:36",
+    "player": "URUM43",
+    "badge_type": "promoted",
+    "old_server": "Galaxy #1",
+    "new_server": "Galaxy #1",
+    "old_group_name": "Старший модератор",
+    "new_group_name": "Младший админ"
+  },
+  {
+    "timestamp": "2026-10-20 01:11:36",
+    "player": "FNAF_F",
+    "badge_type": "demoted",
+    "old_server": "Galaxy #1",
+    "new_server": "Galaxy #1",
+    "old_group_name": "Старший модератор",
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-10-18 19:34:45",
     "player": "Universe77",
     "badge_type": "removed",

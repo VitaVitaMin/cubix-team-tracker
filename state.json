@@ -543,19 +543,19 @@
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
-  "98595_6": {
-    "id": "98595",
-    "name": "FNAF_F",
-    "group": 103,
-    "group_name": "Старший модератор",
-    "server_id": "6",
-    "server_name": "Galaxy #1"
-  },
   "98683_6": {
     "id": "98683",
     "name": "URUM43",
-    "group": 103,
-    "group_name": "Старший модератор",
+    "group": 104,
+    "group_name": "Младший админ",
+    "server_id": "6",
+    "server_name": "Galaxy #1"
+  },
+  "98595_6": {
+    "id": "98595",
+    "name": "FNAF_F",
+    "group": 100,
+    "group_name": "Хелпер",
     "server_id": "6",
     "server_name": "Galaxy #1"
   },
