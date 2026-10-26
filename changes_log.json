@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-10-26 20:42:22",
+    "player": "_ZNAET_",
+    "badge_type": "promoted",
+    "old_server": "SkyTech #1",
+    "new_server": "SkyTech #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-10-26 20:42:22",
+    "player": "ma6R6viN",
+    "badge_type": "promoted",
+    "old_server": "HiTech-Mobile #1",
+    "new_server": "HiTech-Mobile #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-10-26 15:06:07",
     "player": "Shtordik_YT",
     "badge_type": "added",

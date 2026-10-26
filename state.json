@@ -146,8 +146,8 @@
   "98981_3": {
     "id": "98981",
     "name": "_ZNAET_",
-    "group": 100,
-    "group_name": "Хелпер",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "3",
     "server_name": "SkyTech #1"
   },
@@ -1418,8 +1418,8 @@
   "98964_100": {
     "id": "98964",
     "name": "ma6R6viN",
-    "group": 100,
-    "group_name": "Хелпер",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "100",
     "server_name": "HiTech-Mobile #1"
   },
