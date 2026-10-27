@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-10-27 10:53:32",
+    "player": "Xaku",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "Create #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-10-26 20:42:22",
     "player": "_ZNAET_",
     "badge_type": "promoted",
