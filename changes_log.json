@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-10-28 23:27:31",
+    "player": "stampedes",
+    "badge_type": "removed",
+    "old_server": "OneBlock #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-10-28 23:27:31",
+    "player": "stampedes",
+    "badge_type": "removed",
+    "old_server": "OneBlock-Mobile #1",
+    "new_server": null,
+    "old_group_name": "Администратор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-10-28 23:27:31",
+    "player": "Matrix_Create",
+    "badge_type": "promoted",
+    "old_server": "Create #1",
+    "new_server": "Create #1",
+    "old_group_name": "Младший модер",
+    "new_group_name": "Модератор"
+  },
+  {
     "timestamp": "2026-10-28 19:02:52",
     "player": "SoruFire",
     "badge_type": "added",

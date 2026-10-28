@@ -791,14 +791,6 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
-  "94694_21": {
-    "id": "94694",
-    "name": "stampedes",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
   "86130_21": {
     "id": "86130",
     "name": "4RAJ",
@@ -1282,8 +1274,8 @@
   "98714_44": {
     "id": "98714",
     "name": "Matrix_Create",
-    "group": 101,
-    "group_name": "Младший модер",
+    "group": 102,
+    "group_name": "Модератор",
     "server_id": "44",
     "server_name": "Create #1"
   },
@@ -1546,14 +1538,6 @@
   "96066_105": {
     "id": "96066",
     "name": "SuzuaJuzo",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "105",
-    "server_name": "OneBlock-Mobile #1"
-  },
-  "94814_105": {
-    "id": "94814",
-    "name": "stampedes",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "105",
