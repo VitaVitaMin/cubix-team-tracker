@@ -1239,17 +1239,17 @@
     "server_id": "44",
     "server_name": "Create #1"
   },
-  "93645_44": {
-    "id": "93645",
-    "name": "Bet",
+  "99688_44": {
+    "id": "99688",
+    "name": "Kazuhay",
     "group": 106,
     "group_name": "Старший администратор",
     "server_id": "44",
     "server_name": "Create #1"
   },
-  "95712_44": {
-    "id": "95712",
-    "name": "Kazuhay",
+  "93645_44": {
+    "id": "93645",
+    "name": "Bet",
     "group": 106,
     "group_name": "Старший администратор",
     "server_id": "44",
@@ -1274,8 +1274,8 @@
   "98714_44": {
     "id": "98714",
     "name": "Matrix_Create",
-    "group": 102,
-    "group_name": "Модератор",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "44",
     "server_name": "Create #1"
   },
