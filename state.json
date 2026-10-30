@@ -1274,8 +1274,8 @@
   "98714_44": {
     "id": "98714",
     "name": "Matrix_Create",
-    "group": 101,
-    "group_name": "Младший модер",
+    "group": 102,
+    "group_name": "Модератор",
     "server_id": "44",
     "server_name": "Create #1"
   },

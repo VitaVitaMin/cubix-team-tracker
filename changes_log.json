@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-10-30 08:28:18",
+    "player": "Matrix_Create",
+    "badge_type": "promoted",
+    "old_server": "Create #1",
+    "new_server": "Create #1",
+    "old_group_name": "Младший модер",
+    "new_group_name": "Модератор"
+  },
+  {
     "timestamp": "2026-10-29 21:43:26",
     "player": "Metolus",
     "badge_type": "promoted",
