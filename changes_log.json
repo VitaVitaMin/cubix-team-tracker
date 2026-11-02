@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-02 20:11:51",
+    "player": "Narutorendan",
+    "badge_type": "removed",
+    "old_server": "TechnoMagic #1",
+    "new_server": null,
+    "old_group_name": "Старший модератор",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-11-01 22:41:28",
     "player": "Matsusi",
     "badge_type": "added",
