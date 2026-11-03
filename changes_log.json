@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-03 18:21:05",
+    "player": "Dared_Dwarf",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "IceAndFire #1",
+    "old_group_name": null,
+    "new_group_name": "Хелпер"
+  },
+  {
     "timestamp": "2026-11-02 20:11:51",
     "player": "Narutorendan",
     "badge_type": "removed",
