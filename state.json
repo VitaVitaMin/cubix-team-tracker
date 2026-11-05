@@ -450,16 +450,16 @@
   "99389_5": {
     "id": "99389",
     "name": "Covspot",
-    "group": 100,
-    "group_name": "Хелпер",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "5",
     "server_name": "MagicRPG #1"
   },
   "99390_5": {
     "id": "99390",
     "name": "Panda_H",
-    "group": 100,
-    "group_name": "Хелпер",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "5",
     "server_name": "MagicRPG #1"
   },
