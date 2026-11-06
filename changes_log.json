@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-06 23:25:59",
+    "player": "Capsloi",
+    "badge_type": "removed",
+    "old_server": "IceAndFire #1",
+    "new_server": null,
+    "old_group_name": "Модератор",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-11-06 23:25:59",
+    "player": "LordOfDragon",
+    "badge_type": "promoted",
+    "old_server": "MagicRPG #1",
+    "new_server": "MagicRPG #1",
+    "old_group_name": "Младший админ",
+    "new_group_name": "Администратор"
+  },
+  {
     "timestamp": "2026-11-06 18:19:00",
     "player": "Xaku",
     "badge_type": "removed",
