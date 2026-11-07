@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-11-07 16:47:50",
+    "player": "Kamishini",
+    "badge_type": "promoted",
+    "old_server": "MagicRPG #1",
+    "new_server": "MagicRPG #1",
+    "old_group_name": "Администратор",
+    "new_group_name": "Старший администратор"
+  },
+  {
     "timestamp": "2026-11-06 23:25:59",
     "player": "Capsloi",
     "badge_type": "removed",

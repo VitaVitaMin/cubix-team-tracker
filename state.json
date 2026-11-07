@@ -423,6 +423,14 @@
     "server_id": "5",
     "server_name": "MagicRPG #1"
   },
+  "79605_5": {
+    "id": "79605",
+    "name": "Kamishini",
+    "group": 106,
+    "group_name": "Старший администратор",
+    "server_id": "5",
+    "server_name": "MagicRPG #1"
+  },
   "82893_5": {
     "id": "82893",
     "name": "Vinyl_",
@@ -434,14 +442,6 @@
   "92377_5": {
     "id": "92377",
     "name": "LordOfDragon",
-    "group": 105,
-    "group_name": "Администратор",
-    "server_id": "5",
-    "server_name": "MagicRPG #1"
-  },
-  "79605_5": {
-    "id": "79605",
-    "name": "Kamishini",
     "group": 105,
     "group_name": "Администратор",
     "server_id": "5",
