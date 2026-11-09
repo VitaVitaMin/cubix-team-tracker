@@ -1135,6 +1135,30 @@
     "server_id": "42",
     "server_name": "OceanBlock #1"
   },
+  "99878_42": {
+    "id": "99878",
+    "name": "ClissDoor",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "42",
+    "server_name": "OceanBlock #1"
+  },
+  "99879_42": {
+    "id": "99879",
+    "name": "Useless_uwu",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "42",
+    "server_name": "OceanBlock #1"
+  },
+  "99880_42": {
+    "id": "99880",
+    "name": "KILL_DOMER",
+    "group": 100,
+    "group_name": "Хелпер",
+    "server_id": "42",
+    "server_name": "OceanBlock #1"
+  },
   "98027_42": {
     "id": "98027",
     "name": "AKEkPPFB",
