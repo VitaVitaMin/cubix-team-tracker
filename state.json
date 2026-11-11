@@ -66,8 +66,8 @@
   "98360_1": {
     "id": "98360",
     "name": "Future9",
-    "group": 102,
-    "group_name": "Модератор",
+    "group": 103,
+    "group_name": "Старший модератор",
     "server_id": "1",
     "server_name": "HiTech #1"
   },
@@ -140,14 +140,6 @@
     "name": "SuperLoca",
     "group": 102,
     "group_name": "Модератор",
-    "server_id": "3",
-    "server_name": "SkyTech #1"
-  },
-  "98981_3": {
-    "id": "98981",
-    "name": "_ZNAET_",
-    "group": 101,
-    "group_name": "Младший модер",
     "server_id": "3",
     "server_name": "SkyTech #1"
   },

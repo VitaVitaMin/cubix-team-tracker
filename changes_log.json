@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-11 16:01:54",
+    "player": "_ZNAET_",
+    "badge_type": "removed",
+    "old_server": "SkyTech #1",
+    "new_server": null,
+    "old_group_name": "Младший модер",
+    "new_group_name": null
+  },
+  {
+    "timestamp": "2026-11-11 16:01:54",
+    "player": "Future9",
+    "badge_type": "promoted",
+    "old_server": "HiTech #1",
+    "new_server": "HiTech #1",
+    "old_group_name": "Модератор",
+    "new_group_name": "Старший модератор"
+  },
+  {
     "timestamp": "2026-11-09 11:16:21",
     "player": "KILL_DOMER",
     "badge_type": "added",
