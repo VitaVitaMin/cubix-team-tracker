@@ -135,14 +135,6 @@
     "server_id": "3",
     "server_name": "SkyTech #1"
   },
-  "98599_3": {
-    "id": "98599",
-    "name": "SuperLoca",
-    "group": 102,
-    "group_name": "Модератор",
-    "server_id": "3",
-    "server_name": "SkyTech #1"
-  },
   "76807_40": {
     "id": "76807",
     "name": "MrRoBoTTT",
@@ -780,6 +772,14 @@
     "name": "WolaNnn",
     "group": 103,
     "group_name": "Старший модератор",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
+  "99957_21": {
+    "id": "99957",
+    "name": "SuperLoca",
+    "group": 101,
+    "group_name": "Младший модер",
     "server_id": "21",
     "server_name": "OneBlock #1"
   },

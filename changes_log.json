@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-14 16:56:50",
+    "player": "SuperLoca",
+    "badge_type": "added",
+    "old_server": null,
+    "new_server": "OneBlock #1",
+    "old_group_name": null,
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-11-14 16:56:50",
+    "player": "SuperLoca",
+    "badge_type": "removed",
+    "old_server": "SkyTech #1",
+    "new_server": null,
+    "old_group_name": "Модератор",
+    "new_group_name": null
+  },
+  {
     "timestamp": "2026-11-12 20:24:03",
     "player": "Kirill_Kruglov",
     "badge_type": "removed",
