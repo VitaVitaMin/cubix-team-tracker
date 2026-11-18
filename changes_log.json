@@ -1,5 +1,23 @@
 [
   {
+    "timestamp": "2026-11-18 02:18:19",
+    "player": "Shtordik_YT",
+    "badge_type": "promoted",
+    "old_server": "OneBlock #1",
+    "new_server": "OneBlock #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
+    "timestamp": "2026-11-18 02:18:19",
+    "player": "ignattheG1",
+    "badge_type": "promoted",
+    "old_server": "OneBlock #1",
+    "new_server": "OneBlock #1",
+    "old_group_name": "Хелпер",
+    "new_group_name": "Младший модер"
+  },
+  {
     "timestamp": "2026-11-14 16:56:50",
     "player": "SuperLoca",
     "badge_type": "added",

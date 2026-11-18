@@ -775,6 +775,22 @@
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
+  "99126_21": {
+    "id": "99126",
+    "name": "ignattheG1",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
+  "99639_21": {
+    "id": "99639",
+    "name": "Shtordik_YT",
+    "group": 101,
+    "group_name": "Младший модер",
+    "server_id": "21",
+    "server_name": "OneBlock #1"
+  },
   "99957_21": {
     "id": "99957",
     "name": "SuperLoca",
@@ -796,22 +812,6 @@
     "name": "Knigo",
     "group": 101,
     "group_name": "Младший модер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "99126_21": {
-    "id": "99126",
-    "name": "ignattheG1",
-    "group": 100,
-    "group_name": "Хелпер",
-    "server_id": "21",
-    "server_name": "OneBlock #1"
-  },
-  "99639_21": {
-    "id": "99639",
-    "name": "Shtordik_YT",
-    "group": 100,
-    "group_name": "Хелпер",
     "server_id": "21",
     "server_name": "OneBlock #1"
   },
