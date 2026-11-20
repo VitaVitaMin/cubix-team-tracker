@@ -871,22 +871,6 @@
     "server_id": "36",
     "server_name": "Pixelmon 1.16.5 #1"
   },
-  "99262_36": {
-    "id": "99262",
-    "name": "chiller1",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
-  "97995_36": {
-    "id": "97995",
-    "name": "amirka_xxl",
-    "group": 101,
-    "group_name": "Младший модер",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
   "97654_36": {
     "id": "97654",
     "name": "RishaBlin",
@@ -935,14 +919,6 @@
     "server_id": "36",
     "server_name": "Pixelmon 1.16.5 #1"
   },
-  "97569_36": {
-    "id": "97569",
-    "name": "Kirill_Kruglov",
-    "group": 99,
-    "group_name": "Строитель",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
   "99678_36": {
     "id": "99678",
     "name": "SoruFire",
@@ -954,14 +930,6 @@
   "97653_36": {
     "id": "97653",
     "name": "plodojorka",
-    "group": 99,
-    "group_name": "Строитель",
-    "server_id": "36",
-    "server_name": "Pixelmon 1.16.5 #1"
-  },
-  "76448_36": {
-    "id": "76448",
-    "name": "Sunam0r",
     "group": 99,
     "group_name": "Строитель",
     "server_id": "36",
